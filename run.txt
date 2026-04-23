@@ -1,0 +1,2 @@
+"C:\Users\User\Desktop\Eye blink detector1\venv\Scripts\activate.bat"
+streamlit run app.py

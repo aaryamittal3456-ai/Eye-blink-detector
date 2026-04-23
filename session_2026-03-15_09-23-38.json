@@ -1,0 +1,7732 @@
+{
+  "date": "2026-03-15",
+  "start_time": "09:23:38",
+  "duration": "22:11",
+  "total_blinks": 497,
+  "avg_bpm": 24.1,
+  "status": "Slightly elevated blinking",
+  "history": [
+    {
+      "t": 8.2,
+      "bpm": 0.0,
+      "ear": 0.0,
+      "status": "Measuring..."
+    },
+    {
+      "t": 9.2,
+      "bpm": 0.0,
+      "ear": 0.483,
+      "status": "Measuring..."
+    },
+    {
+      "t": 10.3,
+      "bpm": 0.0,
+      "ear": 0.0,
+      "status": "Measuring..."
+    },
+    {
+      "t": 11.3,
+      "bpm": 0.0,
+      "ear": 0.495,
+      "status": "Measuring..."
+    },
+    {
+      "t": 12.3,
+      "bpm": 0.0,
+      "ear": 0.522,
+      "status": "Measuring..."
+    },
+    {
+      "t": 13.4,
+      "bpm": 0.0,
+      "ear": 0.527,
+      "status": "Measuring..."
+    },
+    {
+      "t": 14.4,
+      "bpm": 0.0,
+      "ear": 0.486,
+      "status": "Measuring..."
+    },
+    {
+      "t": 15.5,
+      "bpm": 0.0,
+      "ear": 0.464,
+      "status": "Measuring..."
+    },
+    {
+      "t": 16.6,
+      "bpm": 0.2,
+      "ear": 0.495,
+      "status": "Low blinking \u2014 risk of eye strain"
+    },
+    {
+      "t": 17.6,
+      "bpm": 0.5,
+      "ear": 0.452,
+      "status": "Low blinking \u2014 risk of eye strain"
+    },
+    {
+      "t": 18.6,
+      "bpm": 1.1,
+      "ear": 0.505,
+      "status": "Low blinking \u2014 risk of eye strain"
+    },
+    {
+      "t": 19.7,
+      "bpm": 1.9,
+      "ear": 0.513,
+      "status": "Low blinking \u2014 risk of eye strain"
+    },
+    {
+      "t": 20.7,
+      "bpm": 2.8,
+      "ear": 0.486,
+      "status": "Low blinking \u2014 risk of eye strain"
+    },
+    {
+      "t": 21.7,
+      "bpm": 3.6,
+      "ear": 0.529,
+      "status": "Low blinking \u2014 risk of eye strain"
+    },
+    {
+      "t": 22.8,
+      "bpm": 4.7,
+      "ear": 0.434,
+      "status": "Low blinking \u2014 risk of eye strain"
+    },
+    {
+      "t": 23.8,
+      "bpm": 6.1,
+      "ear": 0.472,
+      "status": "Low blinking \u2014 risk of eye strain"
+    },
+    {
+      "t": 24.8,
+      "bpm": 7.9,
+      "ear": 0.397,
+      "status": "Low blinking \u2014 risk of eye strain"
+    },
+    {
+      "t": 25.8,
+      "bpm": 10.1,
+      "ear": 0.497,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 26.8,
+      "bpm": 12.6,
+      "ear": 0.502,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 27.9,
+      "bpm": 14.4,
+      "ear": 0.529,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 28.9,
+      "bpm": 15.5,
+      "ear": 0.44,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 30.0,
+      "bpm": 16.7,
+      "ear": 0.535,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 31.0,
+      "bpm": 17.8,
+      "ear": 0.508,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 32.0,
+      "bpm": 18.8,
+      "ear": 0.426,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 33.1,
+      "bpm": 19.6,
+      "ear": 0.519,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 34.1,
+      "bpm": 20.2,
+      "ear": 0.511,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 35.1,
+      "bpm": 20.7,
+      "ear": 0.508,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 36.1,
+      "bpm": 21.2,
+      "ear": 0.493,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 37.2,
+      "bpm": 21.6,
+      "ear": 0.494,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 38.2,
+      "bpm": 22.0,
+      "ear": 0.484,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 39.2,
+      "bpm": 22.4,
+      "ear": 0.504,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 40.2,
+      "bpm": 22.6,
+      "ear": 0.409,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 41.2,
+      "bpm": 22.8,
+      "ear": 0.495,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 42.3,
+      "bpm": 23.0,
+      "ear": 0.5,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 43.3,
+      "bpm": 23.1,
+      "ear": 0.516,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 44.3,
+      "bpm": 23.2,
+      "ear": 0.516,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 45.4,
+      "bpm": 23.4,
+      "ear": 0.519,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 46.4,
+      "bpm": 23.7,
+      "ear": 0.526,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 47.4,
+      "bpm": 23.8,
+      "ear": 0.466,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 48.5,
+      "bpm": 23.9,
+      "ear": 0.521,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 49.5,
+      "bpm": 24.0,
+      "ear": 0.482,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 50.6,
+      "bpm": 24.1,
+      "ear": 0.513,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 51.6,
+      "bpm": 24.0,
+      "ear": 0.535,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 52.6,
+      "bpm": 24.0,
+      "ear": 0.531,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 53.7,
+      "bpm": 23.9,
+      "ear": 0.486,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 54.7,
+      "bpm": 23.9,
+      "ear": 0.503,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 55.8,
+      "bpm": 23.8,
+      "ear": 0.419,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 56.8,
+      "bpm": 23.9,
+      "ear": 0.495,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 57.8,
+      "bpm": 24.0,
+      "ear": 0.506,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 58.9,
+      "bpm": 24.0,
+      "ear": 0.512,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 59.9,
+      "bpm": 24.1,
+      "ear": 0.49,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 60.9,
+      "bpm": 24.2,
+      "ear": 0.448,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 61.9,
+      "bpm": 24.4,
+      "ear": 0.506,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 62.9,
+      "bpm": 24.5,
+      "ear": 0.411,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 64.0,
+      "bpm": 24.6,
+      "ear": 0.498,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 65.0,
+      "bpm": 24.7,
+      "ear": 0.511,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 66.0,
+      "bpm": 24.8,
+      "ear": 0.506,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 67.1,
+      "bpm": 24.9,
+      "ear": 0.506,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 68.1,
+      "bpm": 25.0,
+      "ear": 0.528,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 69.1,
+      "bpm": 25.1,
+      "ear": 0.5,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 70.1,
+      "bpm": 25.1,
+      "ear": 0.489,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 71.2,
+      "bpm": 25.2,
+      "ear": 0.51,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 72.2,
+      "bpm": 25.2,
+      "ear": 0.4,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 73.2,
+      "bpm": 25.2,
+      "ear": 0.505,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 74.3,
+      "bpm": 25.4,
+      "ear": 0.416,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 75.3,
+      "bpm": 25.6,
+      "ear": 0.456,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 76.3,
+      "bpm": 25.9,
+      "ear": 0.458,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 77.3,
+      "bpm": 26.5,
+      "ear": 0.42,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 78.4,
+      "bpm": 27.0,
+      "ear": 0.412,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 79.4,
+      "bpm": 27.4,
+      "ear": 0.449,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 80.4,
+      "bpm": 27.7,
+      "ear": 0.43,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 81.4,
+      "bpm": 27.9,
+      "ear": 0.442,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 82.5,
+      "bpm": 27.9,
+      "ear": 0.417,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 83.5,
+      "bpm": 27.9,
+      "ear": 0.397,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 84.5,
+      "bpm": 27.6,
+      "ear": 0.522,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 85.6,
+      "bpm": 27.3,
+      "ear": 0.481,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 86.6,
+      "bpm": 27.1,
+      "ear": 0.49,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 87.6,
+      "bpm": 27.0,
+      "ear": 0.495,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 88.6,
+      "bpm": 26.9,
+      "ear": 0.519,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 89.7,
+      "bpm": 26.9,
+      "ear": 0.521,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 90.7,
+      "bpm": 26.8,
+      "ear": 0.501,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 91.7,
+      "bpm": 26.8,
+      "ear": 0.498,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 92.7,
+      "bpm": 26.8,
+      "ear": 0.494,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 93.7,
+      "bpm": 26.8,
+      "ear": 0.473,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 94.7,
+      "bpm": 26.8,
+      "ear": 0.497,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 95.8,
+      "bpm": 26.8,
+      "ear": 0.543,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 96.8,
+      "bpm": 26.8,
+      "ear": 0.415,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 97.8,
+      "bpm": 26.8,
+      "ear": 0.512,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 98.8,
+      "bpm": 26.9,
+      "ear": 0.465,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 99.8,
+      "bpm": 27.0,
+      "ear": 0.513,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 100.9,
+      "bpm": 27.0,
+      "ear": 0.513,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 101.9,
+      "bpm": 27.0,
+      "ear": 0.517,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 102.9,
+      "bpm": 27.0,
+      "ear": 0.517,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 104.0,
+      "bpm": 27.0,
+      "ear": 0.497,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 105.0,
+      "bpm": 27.1,
+      "ear": 0.503,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 106.0,
+      "bpm": 27.2,
+      "ear": 0.492,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 107.1,
+      "bpm": 27.2,
+      "ear": 0.525,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 108.1,
+      "bpm": 27.1,
+      "ear": 0.418,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 109.2,
+      "bpm": 27.1,
+      "ear": 0.509,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 110.2,
+      "bpm": 27.1,
+      "ear": 0.509,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 111.3,
+      "bpm": 27.1,
+      "ear": 0.508,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 112.3,
+      "bpm": 27.0,
+      "ear": 0.517,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 113.3,
+      "bpm": 26.9,
+      "ear": 0.511,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 114.4,
+      "bpm": 26.7,
+      "ear": 0.516,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 115.4,
+      "bpm": 26.5,
+      "ear": 0.458,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 116.4,
+      "bpm": 26.4,
+      "ear": 0.511,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 117.4,
+      "bpm": 26.2,
+      "ear": 0.513,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 118.5,
+      "bpm": 26.1,
+      "ear": 0.513,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 119.5,
+      "bpm": 25.9,
+      "ear": 0.513,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 120.5,
+      "bpm": 25.8,
+      "ear": 0.511,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 121.6,
+      "bpm": 25.6,
+      "ear": 0.454,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 122.6,
+      "bpm": 25.5,
+      "ear": 0.53,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 123.6,
+      "bpm": 25.4,
+      "ear": 0.531,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 124.7,
+      "bpm": 25.2,
+      "ear": 0.527,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 125.7,
+      "bpm": 25.1,
+      "ear": 0.522,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 126.8,
+      "bpm": 25.0,
+      "ear": 0.532,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 127.8,
+      "bpm": 24.9,
+      "ear": 0.516,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 128.9,
+      "bpm": 24.8,
+      "ear": 0.532,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 129.9,
+      "bpm": 24.7,
+      "ear": 0.522,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 131.0,
+      "bpm": 24.5,
+      "ear": 0.484,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 132.0,
+      "bpm": 24.5,
+      "ear": 0.533,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 133.1,
+      "bpm": 24.4,
+      "ear": 0.525,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 134.1,
+      "bpm": 24.3,
+      "ear": 0.489,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 135.1,
+      "bpm": 24.2,
+      "ear": 0.52,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 136.2,
+      "bpm": 24.1,
+      "ear": 0.514,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 137.2,
+      "bpm": 24.0,
+      "ear": 0.501,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 138.2,
+      "bpm": 23.9,
+      "ear": 0.504,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 139.3,
+      "bpm": 23.8,
+      "ear": 0.515,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 140.4,
+      "bpm": 23.7,
+      "ear": 0.524,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 141.4,
+      "bpm": 23.6,
+      "ear": 0.416,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 142.4,
+      "bpm": 23.4,
+      "ear": 0.472,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 143.4,
+      "bpm": 23.3,
+      "ear": 0.505,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 144.5,
+      "bpm": 23.2,
+      "ear": 0.522,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 145.5,
+      "bpm": 23.0,
+      "ear": 0.488,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 146.5,
+      "bpm": 23.0,
+      "ear": 0.434,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 147.6,
+      "bpm": 22.9,
+      "ear": 0.383,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 148.6,
+      "bpm": 22.9,
+      "ear": 0.527,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 149.7,
+      "bpm": 22.8,
+      "ear": 0.401,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 150.7,
+      "bpm": 22.8,
+      "ear": 0.416,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 151.7,
+      "bpm": 22.7,
+      "ear": 0.41,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 152.8,
+      "bpm": 22.6,
+      "ear": 0.392,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 153.8,
+      "bpm": 22.4,
+      "ear": 0.406,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 154.8,
+      "bpm": 22.3,
+      "ear": 0.444,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 155.8,
+      "bpm": 22.2,
+      "ear": 0.431,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 156.9,
+      "bpm": 22.2,
+      "ear": 0.461,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 157.9,
+      "bpm": 22.1,
+      "ear": 0.462,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 158.9,
+      "bpm": 22.1,
+      "ear": 0.469,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 159.9,
+      "bpm": 22.1,
+      "ear": 0.491,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 160.9,
+      "bpm": 22.1,
+      "ear": 0.452,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 162.1,
+      "bpm": 22.2,
+      "ear": 0.503,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 163.1,
+      "bpm": 22.3,
+      "ear": 0.505,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 164.2,
+      "bpm": 22.3,
+      "ear": 0.493,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 165.2,
+      "bpm": 22.4,
+      "ear": 0.505,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 166.2,
+      "bpm": 22.4,
+      "ear": 0.46,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 167.3,
+      "bpm": 22.4,
+      "ear": 0.445,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 168.3,
+      "bpm": 22.6,
+      "ear": 0.0,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 169.3,
+      "bpm": 22.7,
+      "ear": 0.427,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 170.4,
+      "bpm": 22.9,
+      "ear": 0.467,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 171.4,
+      "bpm": 23.1,
+      "ear": 0.448,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 172.4,
+      "bpm": 23.4,
+      "ear": 0.0,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 173.4,
+      "bpm": 23.7,
+      "ear": 0.46,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 174.5,
+      "bpm": 24.0,
+      "ear": 0.449,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 175.5,
+      "bpm": 24.3,
+      "ear": 0.498,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 176.5,
+      "bpm": 24.6,
+      "ear": 0.506,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 177.6,
+      "bpm": 24.9,
+      "ear": 0.504,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 178.6,
+      "bpm": 25.0,
+      "ear": 0.504,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 179.6,
+      "bpm": 25.1,
+      "ear": 0.412,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 180.7,
+      "bpm": 25.1,
+      "ear": 0.402,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 181.7,
+      "bpm": 25.1,
+      "ear": 0.419,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 182.7,
+      "bpm": 25.0,
+      "ear": 0.443,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 183.8,
+      "bpm": 24.9,
+      "ear": 0.439,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 184.8,
+      "bpm": 24.9,
+      "ear": 0.408,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 185.8,
+      "bpm": 24.8,
+      "ear": 0.413,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 186.8,
+      "bpm": 24.7,
+      "ear": 0.401,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 187.8,
+      "bpm": 24.6,
+      "ear": 0.379,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 188.9,
+      "bpm": 24.5,
+      "ear": 0.386,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 189.9,
+      "bpm": 24.4,
+      "ear": 0.0,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 190.9,
+      "bpm": 24.4,
+      "ear": 0.395,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 191.9,
+      "bpm": 24.3,
+      "ear": 0.432,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 192.9,
+      "bpm": 24.2,
+      "ear": 0.484,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 194.0,
+      "bpm": 24.1,
+      "ear": 0.361,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 195.0,
+      "bpm": 24.1,
+      "ear": 0.0,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 196.0,
+      "bpm": 24.0,
+      "ear": 0.453,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 197.0,
+      "bpm": 24.0,
+      "ear": 0.459,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 198.0,
+      "bpm": 23.9,
+      "ear": 0.405,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 199.0,
+      "bpm": 24.0,
+      "ear": 0.393,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 200.0,
+      "bpm": 23.9,
+      "ear": 0.0,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 201.1,
+      "bpm": 23.9,
+      "ear": 0.417,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 202.1,
+      "bpm": 23.8,
+      "ear": 0.403,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 203.1,
+      "bpm": 23.7,
+      "ear": 0.396,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 204.1,
+      "bpm": 23.6,
+      "ear": 0.478,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 205.1,
+      "bpm": 23.6,
+      "ear": 0.396,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 206.1,
+      "bpm": 23.5,
+      "ear": 0.0,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 207.2,
+      "bpm": 23.4,
+      "ear": 0.377,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 208.2,
+      "bpm": 23.4,
+      "ear": 0.432,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 209.2,
+      "bpm": 23.3,
+      "ear": 0.415,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 210.2,
+      "bpm": 23.2,
+      "ear": 0.369,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 211.2,
+      "bpm": 23.2,
+      "ear": 0.365,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 212.2,
+      "bpm": 23.1,
+      "ear": 0.348,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 213.2,
+      "bpm": 23.0,
+      "ear": 0.0,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 214.2,
+      "bpm": 22.9,
+      "ear": 0.0,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 215.2,
+      "bpm": 22.9,
+      "ear": 0.335,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 216.3,
+      "bpm": 22.8,
+      "ear": 0.482,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 217.3,
+      "bpm": 22.8,
+      "ear": 0.512,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 218.4,
+      "bpm": 22.8,
+      "ear": 0.513,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 219.4,
+      "bpm": 22.8,
+      "ear": 0.523,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 220.5,
+      "bpm": 22.7,
+      "ear": 0.53,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 221.5,
+      "bpm": 22.7,
+      "ear": 0.477,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 222.5,
+      "bpm": 22.7,
+      "ear": 0.515,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 223.5,
+      "bpm": 22.6,
+      "ear": 0.498,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 224.6,
+      "bpm": 22.6,
+      "ear": 0.505,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 225.6,
+      "bpm": 22.5,
+      "ear": 0.492,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 226.6,
+      "bpm": 22.4,
+      "ear": 0.5,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 227.6,
+      "bpm": 22.3,
+      "ear": 0.496,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 228.7,
+      "bpm": 22.1,
+      "ear": 0.501,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 229.7,
+      "bpm": 22.0,
+      "ear": 0.48,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 230.7,
+      "bpm": 21.9,
+      "ear": 0.493,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 231.7,
+      "bpm": 21.8,
+      "ear": 0.493,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 232.8,
+      "bpm": 21.7,
+      "ear": 0.497,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 233.8,
+      "bpm": 21.7,
+      "ear": 0.498,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 234.8,
+      "bpm": 21.6,
+      "ear": 0.507,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 235.9,
+      "bpm": 21.6,
+      "ear": 0.504,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 236.9,
+      "bpm": 21.6,
+      "ear": 0.503,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 237.9,
+      "bpm": 21.6,
+      "ear": 0.502,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 239.0,
+      "bpm": 21.6,
+      "ear": 0.391,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 240.0,
+      "bpm": 21.6,
+      "ear": 0.503,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 241.0,
+      "bpm": 21.5,
+      "ear": 0.517,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 242.0,
+      "bpm": 21.5,
+      "ear": 0.491,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 243.1,
+      "bpm": 21.4,
+      "ear": 0.503,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 244.1,
+      "bpm": 21.4,
+      "ear": 0.473,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 245.1,
+      "bpm": 21.4,
+      "ear": 0.5,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 246.1,
+      "bpm": 21.3,
+      "ear": 0.49,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 247.1,
+      "bpm": 21.3,
+      "ear": 0.461,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 248.2,
+      "bpm": 21.3,
+      "ear": 0.484,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 249.2,
+      "bpm": 21.3,
+      "ear": 0.494,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 250.2,
+      "bpm": 21.2,
+      "ear": 0.493,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 251.3,
+      "bpm": 21.2,
+      "ear": 0.44,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 252.3,
+      "bpm": 21.2,
+      "ear": 0.497,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 253.4,
+      "bpm": 21.2,
+      "ear": 0.493,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 254.4,
+      "bpm": 21.2,
+      "ear": 0.486,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 255.4,
+      "bpm": 21.1,
+      "ear": 0.498,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 256.4,
+      "bpm": 21.1,
+      "ear": 0.501,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 257.4,
+      "bpm": 21.0,
+      "ear": 0.493,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 258.5,
+      "bpm": 20.9,
+      "ear": 0.49,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 259.5,
+      "bpm": 20.9,
+      "ear": 0.502,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 260.6,
+      "bpm": 20.8,
+      "ear": 0.505,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 261.6,
+      "bpm": 20.7,
+      "ear": 0.504,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 262.6,
+      "bpm": 20.7,
+      "ear": 0.495,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 263.7,
+      "bpm": 20.6,
+      "ear": 0.393,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 264.7,
+      "bpm": 20.6,
+      "ear": 0.504,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 265.7,
+      "bpm": 20.6,
+      "ear": 0.51,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 266.7,
+      "bpm": 20.6,
+      "ear": 0.502,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 267.7,
+      "bpm": 20.7,
+      "ear": 0.526,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 268.7,
+      "bpm": 20.7,
+      "ear": 0.513,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 269.8,
+      "bpm": 20.7,
+      "ear": 0.516,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 270.8,
+      "bpm": 20.7,
+      "ear": 0.503,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 271.8,
+      "bpm": 20.8,
+      "ear": 0.502,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 272.8,
+      "bpm": 20.8,
+      "ear": 0.508,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 273.9,
+      "bpm": 20.8,
+      "ear": 0.436,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 274.9,
+      "bpm": 20.8,
+      "ear": 0.48,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 275.9,
+      "bpm": 20.7,
+      "ear": 0.497,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 276.9,
+      "bpm": 20.7,
+      "ear": 0.498,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 277.9,
+      "bpm": 20.7,
+      "ear": 0.459,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 279.0,
+      "bpm": 20.7,
+      "ear": 0.461,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 280.0,
+      "bpm": 20.7,
+      "ear": 0.497,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 281.1,
+      "bpm": 20.7,
+      "ear": 0.493,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 282.1,
+      "bpm": 20.7,
+      "ear": 0.491,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 283.1,
+      "bpm": 20.6,
+      "ear": 0.496,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 284.2,
+      "bpm": 20.6,
+      "ear": 0.503,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 285.2,
+      "bpm": 20.6,
+      "ear": 0.5,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 286.3,
+      "bpm": 20.6,
+      "ear": 0.492,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 287.3,
+      "bpm": 20.6,
+      "ear": 0.517,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 288.4,
+      "bpm": 20.6,
+      "ear": 0.526,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 289.4,
+      "bpm": 20.6,
+      "ear": 0.523,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 290.5,
+      "bpm": 20.6,
+      "ear": 0.52,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 291.5,
+      "bpm": 20.5,
+      "ear": 0.514,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 292.5,
+      "bpm": 20.5,
+      "ear": 0.52,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 293.5,
+      "bpm": 20.5,
+      "ear": 0.467,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 294.5,
+      "bpm": 20.5,
+      "ear": 0.515,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 295.5,
+      "bpm": 20.4,
+      "ear": 0.518,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 296.6,
+      "bpm": 20.4,
+      "ear": 0.515,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 297.6,
+      "bpm": 20.4,
+      "ear": 0.499,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 298.6,
+      "bpm": 20.4,
+      "ear": 0.514,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 299.7,
+      "bpm": 20.3,
+      "ear": 0.506,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 300.7,
+      "bpm": 20.3,
+      "ear": 0.518,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 301.8,
+      "bpm": 20.3,
+      "ear": 0.521,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 302.8,
+      "bpm": 20.2,
+      "ear": 0.527,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 303.9,
+      "bpm": 20.2,
+      "ear": 0.527,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 304.9,
+      "bpm": 20.1,
+      "ear": 0.523,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 305.9,
+      "bpm": 20.1,
+      "ear": 0.523,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 306.9,
+      "bpm": 20.0,
+      "ear": 0.525,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 307.9,
+      "bpm": 19.9,
+      "ear": 0.523,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 309.0,
+      "bpm": 19.9,
+      "ear": 0.49,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 310.0,
+      "bpm": 19.8,
+      "ear": 0.514,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 311.0,
+      "bpm": 19.8,
+      "ear": 0.514,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 312.0,
+      "bpm": 19.7,
+      "ear": 0.508,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 313.0,
+      "bpm": 19.7,
+      "ear": 0.515,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 314.1,
+      "bpm": 19.7,
+      "ear": 0.512,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 315.1,
+      "bpm": 19.7,
+      "ear": 0.487,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 316.1,
+      "bpm": 19.7,
+      "ear": 0.507,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 317.1,
+      "bpm": 19.7,
+      "ear": 0.529,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 318.1,
+      "bpm": 19.7,
+      "ear": 0.511,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 319.2,
+      "bpm": 19.7,
+      "ear": 0.377,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 320.2,
+      "bpm": 19.7,
+      "ear": 0.396,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 321.3,
+      "bpm": 19.6,
+      "ear": 0.508,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 322.3,
+      "bpm": 19.6,
+      "ear": 0.508,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 323.3,
+      "bpm": 19.5,
+      "ear": 0.513,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 324.3,
+      "bpm": 19.5,
+      "ear": 0.434,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 325.4,
+      "bpm": 19.5,
+      "ear": 0.377,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 326.4,
+      "bpm": 19.4,
+      "ear": 0.395,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 327.4,
+      "bpm": 19.4,
+      "ear": 0.38,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 328.4,
+      "bpm": 19.4,
+      "ear": 0.386,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 329.4,
+      "bpm": 19.3,
+      "ear": 0.412,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 330.5,
+      "bpm": 19.3,
+      "ear": 0.404,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 331.5,
+      "bpm": 19.2,
+      "ear": 0.469,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 332.5,
+      "bpm": 19.2,
+      "ear": 0.517,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 333.5,
+      "bpm": 19.2,
+      "ear": 0.451,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 334.6,
+      "bpm": 19.1,
+      "ear": 0.509,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 335.6,
+      "bpm": 19.1,
+      "ear": 0.506,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 336.6,
+      "bpm": 19.1,
+      "ear": 0.511,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 337.7,
+      "bpm": 19.1,
+      "ear": 0.413,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 338.7,
+      "bpm": 19.1,
+      "ear": 0.444,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 339.7,
+      "bpm": 19.1,
+      "ear": 0.454,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 340.7,
+      "bpm": 19.0,
+      "ear": 0.0,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 341.8,
+      "bpm": 19.0,
+      "ear": 0.406,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 342.8,
+      "bpm": 18.9,
+      "ear": 0.452,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 343.8,
+      "bpm": 18.9,
+      "ear": 0.445,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 344.8,
+      "bpm": 18.9,
+      "ear": 0.47,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 345.8,
+      "bpm": 18.9,
+      "ear": 0.462,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 346.9,
+      "bpm": 18.9,
+      "ear": 0.492,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 347.9,
+      "bpm": 18.9,
+      "ear": 0.396,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 348.9,
+      "bpm": 19.0,
+      "ear": 0.43,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 349.9,
+      "bpm": 19.0,
+      "ear": 0.572,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 351.0,
+      "bpm": 19.1,
+      "ear": 0.0,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 352.0,
+      "bpm": 19.2,
+      "ear": 0.502,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 353.1,
+      "bpm": 19.2,
+      "ear": 0.427,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 354.1,
+      "bpm": 19.2,
+      "ear": 0.398,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 355.1,
+      "bpm": 19.3,
+      "ear": 0.482,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 356.2,
+      "bpm": 19.3,
+      "ear": 0.407,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 357.2,
+      "bpm": 19.4,
+      "ear": 0.407,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 358.2,
+      "bpm": 19.4,
+      "ear": 0.404,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 359.3,
+      "bpm": 19.4,
+      "ear": 0.448,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 360.3,
+      "bpm": 19.4,
+      "ear": 0.418,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 361.3,
+      "bpm": 19.4,
+      "ear": 0.455,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 362.4,
+      "bpm": 19.5,
+      "ear": 0.451,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 363.4,
+      "bpm": 19.6,
+      "ear": 0.443,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 364.5,
+      "bpm": 19.7,
+      "ear": 0.443,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 365.5,
+      "bpm": 19.8,
+      "ear": 0.514,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 366.5,
+      "bpm": 19.9,
+      "ear": 0.0,
+      "status": "Healthy blinking \u2713"
+    },
+    {
+      "t": 367.6,
+      "bpm": 20.1,
+      "ear": 0.408,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 368.6,
+      "bpm": 20.2,
+      "ear": 0.506,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 369.6,
+      "bpm": 20.4,
+      "ear": 0.392,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 370.6,
+      "bpm": 20.5,
+      "ear": 0.418,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 371.6,
+      "bpm": 20.6,
+      "ear": 0.438,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 372.6,
+      "bpm": 20.7,
+      "ear": 0.498,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 373.6,
+      "bpm": 20.8,
+      "ear": 0.503,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 374.7,
+      "bpm": 21.0,
+      "ear": 0.489,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 375.7,
+      "bpm": 21.1,
+      "ear": 0.0,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 376.7,
+      "bpm": 21.3,
+      "ear": 0.481,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 377.7,
+      "bpm": 21.5,
+      "ear": 0.415,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 378.7,
+      "bpm": 21.6,
+      "ear": 0.467,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 379.8,
+      "bpm": 21.9,
+      "ear": 0.445,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 380.8,
+      "bpm": 22.0,
+      "ear": 0.447,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 381.9,
+      "bpm": 22.1,
+      "ear": 0.448,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 382.9,
+      "bpm": 22.2,
+      "ear": 0.502,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 383.9,
+      "bpm": 22.3,
+      "ear": 0.388,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 384.9,
+      "bpm": 22.4,
+      "ear": 0.412,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 385.9,
+      "bpm": 22.4,
+      "ear": 0.49,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 386.9,
+      "bpm": 22.5,
+      "ear": 0.458,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 387.9,
+      "bpm": 22.6,
+      "ear": 0.0,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 389.0,
+      "bpm": 22.7,
+      "ear": 0.495,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 390.0,
+      "bpm": 22.8,
+      "ear": 0.421,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 391.0,
+      "bpm": 22.9,
+      "ear": 0.441,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 392.1,
+      "bpm": 22.9,
+      "ear": 0.453,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 393.1,
+      "bpm": 23.0,
+      "ear": 0.0,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 394.1,
+      "bpm": 23.1,
+      "ear": 0.461,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 395.1,
+      "bpm": 23.1,
+      "ear": 0.449,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 396.2,
+      "bpm": 23.1,
+      "ear": 0.498,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 397.2,
+      "bpm": 23.1,
+      "ear": 0.45,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 398.2,
+      "bpm": 23.1,
+      "ear": 0.455,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 399.2,
+      "bpm": 23.2,
+      "ear": 0.486,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 400.2,
+      "bpm": 23.2,
+      "ear": 0.0,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 401.2,
+      "bpm": 23.3,
+      "ear": 0.395,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 402.3,
+      "bpm": 23.4,
+      "ear": 0.462,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 403.3,
+      "bpm": 23.5,
+      "ear": 0.395,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 404.3,
+      "bpm": 23.6,
+      "ear": 0.431,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 405.3,
+      "bpm": 23.7,
+      "ear": 0.516,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 406.4,
+      "bpm": 23.8,
+      "ear": 0.461,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 407.4,
+      "bpm": 23.9,
+      "ear": 0.439,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 408.5,
+      "bpm": 24.0,
+      "ear": 0.507,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 409.5,
+      "bpm": 24.1,
+      "ear": 0.453,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 410.5,
+      "bpm": 24.3,
+      "ear": 0.472,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 411.5,
+      "bpm": 24.5,
+      "ear": 0.422,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 412.6,
+      "bpm": 24.8,
+      "ear": 0.419,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 413.6,
+      "bpm": 25.0,
+      "ear": 0.438,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 414.6,
+      "bpm": 25.1,
+      "ear": 0.452,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 415.7,
+      "bpm": 25.3,
+      "ear": 0.0,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 416.7,
+      "bpm": 25.5,
+      "ear": 0.421,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 417.7,
+      "bpm": 25.7,
+      "ear": 0.512,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 418.7,
+      "bpm": 25.8,
+      "ear": 0.448,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 419.7,
+      "bpm": 25.9,
+      "ear": 0.48,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 420.7,
+      "bpm": 26.0,
+      "ear": 0.471,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 421.7,
+      "bpm": 26.1,
+      "ear": 0.465,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 422.7,
+      "bpm": 26.1,
+      "ear": 0.447,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 423.7,
+      "bpm": 26.2,
+      "ear": 0.465,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 424.8,
+      "bpm": 26.3,
+      "ear": 0.521,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 425.8,
+      "bpm": 26.4,
+      "ear": 0.469,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 426.8,
+      "bpm": 26.5,
+      "ear": 0.438,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 427.8,
+      "bpm": 26.6,
+      "ear": 0.438,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 428.8,
+      "bpm": 26.7,
+      "ear": 0.464,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 429.8,
+      "bpm": 26.8,
+      "ear": 0.48,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 430.9,
+      "bpm": 26.9,
+      "ear": 0.487,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 431.9,
+      "bpm": 26.9,
+      "ear": 0.475,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 432.9,
+      "bpm": 27.0,
+      "ear": 0.454,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 433.9,
+      "bpm": 27.1,
+      "ear": 0.459,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 435.0,
+      "bpm": 27.2,
+      "ear": 0.511,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 436.0,
+      "bpm": 27.3,
+      "ear": 0.495,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 437.1,
+      "bpm": 27.4,
+      "ear": 0.431,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 438.1,
+      "bpm": 27.4,
+      "ear": 0.508,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 439.2,
+      "bpm": 27.5,
+      "ear": 0.467,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 440.2,
+      "bpm": 27.5,
+      "ear": 0.476,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 441.3,
+      "bpm": 27.5,
+      "ear": 0.487,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 442.3,
+      "bpm": 27.6,
+      "ear": 0.487,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 443.4,
+      "bpm": 27.6,
+      "ear": 0.496,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 444.4,
+      "bpm": 27.6,
+      "ear": 0.5,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 445.5,
+      "bpm": 27.5,
+      "ear": 0.483,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 446.5,
+      "bpm": 27.5,
+      "ear": 0.516,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 447.5,
+      "bpm": 27.4,
+      "ear": 0.46,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 448.6,
+      "bpm": 27.4,
+      "ear": 0.519,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 449.6,
+      "bpm": 27.4,
+      "ear": 0.453,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 450.7,
+      "bpm": 27.4,
+      "ear": 0.463,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 451.7,
+      "bpm": 27.4,
+      "ear": 0.465,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 452.7,
+      "bpm": 27.4,
+      "ear": 0.477,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 453.8,
+      "bpm": 27.4,
+      "ear": 0.487,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 454.8,
+      "bpm": 27.5,
+      "ear": 0.526,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 455.8,
+      "bpm": 27.5,
+      "ear": 0.527,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 456.9,
+      "bpm": 27.5,
+      "ear": 0.532,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 457.9,
+      "bpm": 27.4,
+      "ear": 0.472,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 458.9,
+      "bpm": 27.4,
+      "ear": 0.531,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 460.0,
+      "bpm": 27.4,
+      "ear": 0.526,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 461.0,
+      "bpm": 27.3,
+      "ear": 0.539,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 462.0,
+      "bpm": 27.3,
+      "ear": 0.514,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 463.0,
+      "bpm": 27.2,
+      "ear": 0.524,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 464.1,
+      "bpm": 27.2,
+      "ear": 0.51,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 465.1,
+      "bpm": 27.1,
+      "ear": 0.508,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 466.1,
+      "bpm": 27.1,
+      "ear": 0.514,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 467.2,
+      "bpm": 27.0,
+      "ear": 0.518,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 468.2,
+      "bpm": 27.0,
+      "ear": 0.514,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 469.2,
+      "bpm": 26.9,
+      "ear": 0.517,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 470.3,
+      "bpm": 26.9,
+      "ear": 0.508,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 471.3,
+      "bpm": 26.8,
+      "ear": 0.522,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 472.3,
+      "bpm": 26.7,
+      "ear": 0.514,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 473.3,
+      "bpm": 26.7,
+      "ear": 0.511,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 474.3,
+      "bpm": 26.6,
+      "ear": 0.513,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 475.3,
+      "bpm": 26.6,
+      "ear": 0.515,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 476.4,
+      "bpm": 26.5,
+      "ear": 0.512,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 477.4,
+      "bpm": 26.5,
+      "ear": 0.506,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 478.4,
+      "bpm": 26.4,
+      "ear": 0.513,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 479.4,
+      "bpm": 26.4,
+      "ear": 0.516,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 480.5,
+      "bpm": 26.4,
+      "ear": 0.513,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 481.5,
+      "bpm": 26.4,
+      "ear": 0.512,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 482.5,
+      "bpm": 26.3,
+      "ear": 0.518,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 483.6,
+      "bpm": 26.3,
+      "ear": 0.511,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 484.6,
+      "bpm": 26.3,
+      "ear": 0.505,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 485.6,
+      "bpm": 26.2,
+      "ear": 0.497,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 486.7,
+      "bpm": 26.2,
+      "ear": 0.498,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 487.7,
+      "bpm": 26.1,
+      "ear": 0.508,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 488.7,
+      "bpm": 26.1,
+      "ear": 0.506,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 489.8,
+      "bpm": 26.0,
+      "ear": 0.442,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 490.8,
+      "bpm": 26.0,
+      "ear": 0.512,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 491.8,
+      "bpm": 26.0,
+      "ear": 0.49,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 492.8,
+      "bpm": 25.9,
+      "ear": 0.5,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 493.8,
+      "bpm": 25.9,
+      "ear": 0.479,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 494.9,
+      "bpm": 25.9,
+      "ear": 0.489,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 495.9,
+      "bpm": 25.8,
+      "ear": 0.48,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 497.0,
+      "bpm": 25.8,
+      "ear": 0.495,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 498.0,
+      "bpm": 25.8,
+      "ear": 0.482,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 499.0,
+      "bpm": 25.8,
+      "ear": 0.492,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 500.0,
+      "bpm": 25.7,
+      "ear": 0.488,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 501.0,
+      "bpm": 25.7,
+      "ear": 0.503,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 502.0,
+      "bpm": 25.7,
+      "ear": 0.49,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 503.1,
+      "bpm": 25.7,
+      "ear": 0.415,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 504.1,
+      "bpm": 25.7,
+      "ear": 0.511,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 505.1,
+      "bpm": 25.6,
+      "ear": 0.498,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 506.2,
+      "bpm": 25.6,
+      "ear": 0.375,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 507.2,
+      "bpm": 25.6,
+      "ear": 0.603,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 508.3,
+      "bpm": 25.5,
+      "ear": 0.38,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 509.3,
+      "bpm": 25.5,
+      "ear": 0.472,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 510.3,
+      "bpm": 25.5,
+      "ear": 0.386,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 511.4,
+      "bpm": 25.5,
+      "ear": 0.368,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 512.4,
+      "bpm": 25.5,
+      "ear": 0.45,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 513.4,
+      "bpm": 25.5,
+      "ear": 0.441,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 514.4,
+      "bpm": 25.4,
+      "ear": 0.436,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 515.4,
+      "bpm": 25.4,
+      "ear": 0.477,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 516.5,
+      "bpm": 25.4,
+      "ear": 0.427,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 517.5,
+      "bpm": 25.5,
+      "ear": 0.464,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 518.5,
+      "bpm": 25.5,
+      "ear": 0.478,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 519.5,
+      "bpm": 25.6,
+      "ear": 0.0,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 520.5,
+      "bpm": 25.6,
+      "ear": 0.483,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 521.6,
+      "bpm": 25.7,
+      "ear": 0.437,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 522.6,
+      "bpm": 25.8,
+      "ear": 0.491,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 523.6,
+      "bpm": 25.9,
+      "ear": 0.4,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 524.6,
+      "bpm": 26.0,
+      "ear": 0.424,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 525.6,
+      "bpm": 26.0,
+      "ear": 0.401,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 526.6,
+      "bpm": 26.0,
+      "ear": 0.421,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 527.6,
+      "bpm": 26.0,
+      "ear": 0.436,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 528.7,
+      "bpm": 26.0,
+      "ear": 0.466,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 529.7,
+      "bpm": 26.0,
+      "ear": 0.426,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 530.7,
+      "bpm": 26.0,
+      "ear": 0.437,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 531.7,
+      "bpm": 26.0,
+      "ear": 0.467,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 532.7,
+      "bpm": 26.0,
+      "ear": 0.406,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 533.7,
+      "bpm": 26.0,
+      "ear": 0.431,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 534.8,
+      "bpm": 26.0,
+      "ear": 0.419,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 535.8,
+      "bpm": 25.9,
+      "ear": 0.415,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 536.8,
+      "bpm": 25.9,
+      "ear": 0.436,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 537.9,
+      "bpm": 26.0,
+      "ear": 0.486,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 538.9,
+      "bpm": 26.0,
+      "ear": 0.484,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 539.9,
+      "bpm": 26.0,
+      "ear": 0.432,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 540.9,
+      "bpm": 26.0,
+      "ear": 0.426,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 541.9,
+      "bpm": 26.0,
+      "ear": 0.425,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 543.0,
+      "bpm": 26.0,
+      "ear": 0.445,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 544.0,
+      "bpm": 26.0,
+      "ear": 0.44,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 545.0,
+      "bpm": 26.0,
+      "ear": 0.452,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 546.0,
+      "bpm": 26.0,
+      "ear": 0.473,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 547.1,
+      "bpm": 26.0,
+      "ear": 0.403,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 548.1,
+      "bpm": 26.0,
+      "ear": 0.408,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 549.1,
+      "bpm": 26.1,
+      "ear": 0.446,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 550.2,
+      "bpm": 26.1,
+      "ear": 0.458,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 551.2,
+      "bpm": 26.1,
+      "ear": 0.421,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 552.2,
+      "bpm": 26.2,
+      "ear": 0.526,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 553.3,
+      "bpm": 26.2,
+      "ear": 0.511,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 554.3,
+      "bpm": 26.2,
+      "ear": 0.446,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 555.3,
+      "bpm": 26.2,
+      "ear": 0.498,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 556.4,
+      "bpm": 26.3,
+      "ear": 0.505,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 557.4,
+      "bpm": 26.3,
+      "ear": 0.503,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 558.4,
+      "bpm": 26.4,
+      "ear": 0.505,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 559.4,
+      "bpm": 26.4,
+      "ear": 0.506,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 560.4,
+      "bpm": 26.5,
+      "ear": 0.529,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 561.5,
+      "bpm": 26.5,
+      "ear": 0.51,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 562.5,
+      "bpm": 26.5,
+      "ear": 0.49,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 563.5,
+      "bpm": 26.5,
+      "ear": 0.384,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 564.6,
+      "bpm": 26.4,
+      "ear": 0.495,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 565.6,
+      "bpm": 26.4,
+      "ear": 0.489,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 566.6,
+      "bpm": 26.4,
+      "ear": 0.507,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 567.6,
+      "bpm": 26.4,
+      "ear": 0.501,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 568.6,
+      "bpm": 26.3,
+      "ear": 0.47,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 569.7,
+      "bpm": 26.3,
+      "ear": 0.49,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 570.7,
+      "bpm": 26.3,
+      "ear": 0.494,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 571.7,
+      "bpm": 26.2,
+      "ear": 0.489,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 572.8,
+      "bpm": 26.2,
+      "ear": 0.5,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 573.8,
+      "bpm": 26.2,
+      "ear": 0.499,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 574.8,
+      "bpm": 26.2,
+      "ear": 0.494,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 575.8,
+      "bpm": 26.1,
+      "ear": 0.453,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 576.8,
+      "bpm": 26.1,
+      "ear": 0.501,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 577.9,
+      "bpm": 26.1,
+      "ear": 0.453,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 578.9,
+      "bpm": 26.1,
+      "ear": 0.465,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 580.0,
+      "bpm": 26.1,
+      "ear": 0.458,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 581.0,
+      "bpm": 26.1,
+      "ear": 0.473,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 582.1,
+      "bpm": 26.2,
+      "ear": 0.514,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 583.1,
+      "bpm": 26.2,
+      "ear": 0.501,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 584.1,
+      "bpm": 26.2,
+      "ear": 0.491,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 585.2,
+      "bpm": 26.2,
+      "ear": 0.464,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 586.2,
+      "bpm": 26.2,
+      "ear": 0.491,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 587.2,
+      "bpm": 26.2,
+      "ear": 0.449,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 588.3,
+      "bpm": 26.2,
+      "ear": 0.489,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 589.3,
+      "bpm": 26.2,
+      "ear": 0.483,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 590.4,
+      "bpm": 26.2,
+      "ear": 0.51,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 591.4,
+      "bpm": 26.1,
+      "ear": 0.475,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 592.4,
+      "bpm": 26.1,
+      "ear": 0.494,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 593.5,
+      "bpm": 26.1,
+      "ear": 0.484,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 594.5,
+      "bpm": 26.1,
+      "ear": 0.504,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 595.6,
+      "bpm": 26.0,
+      "ear": 0.497,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 596.6,
+      "bpm": 26.0,
+      "ear": 0.484,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 597.6,
+      "bpm": 26.0,
+      "ear": 0.479,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 598.6,
+      "bpm": 26.0,
+      "ear": 0.473,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 599.7,
+      "bpm": 25.9,
+      "ear": 0.485,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 600.7,
+      "bpm": 25.9,
+      "ear": 0.492,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 601.8,
+      "bpm": 25.8,
+      "ear": 0.487,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 602.8,
+      "bpm": 25.8,
+      "ear": 0.499,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 603.8,
+      "bpm": 25.8,
+      "ear": 0.494,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 604.9,
+      "bpm": 25.7,
+      "ear": 0.49,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 605.9,
+      "bpm": 25.7,
+      "ear": 0.491,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 606.9,
+      "bpm": 25.7,
+      "ear": 0.492,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 608.0,
+      "bpm": 25.7,
+      "ear": 0.379,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 609.0,
+      "bpm": 25.6,
+      "ear": 0.485,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 610.0,
+      "bpm": 25.6,
+      "ear": 0.499,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 611.0,
+      "bpm": 25.6,
+      "ear": 0.501,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 612.1,
+      "bpm": 25.6,
+      "ear": 0.505,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 613.1,
+      "bpm": 25.6,
+      "ear": 0.5,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 614.1,
+      "bpm": 25.6,
+      "ear": 0.501,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 615.1,
+      "bpm": 25.6,
+      "ear": 0.499,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 616.1,
+      "bpm": 25.6,
+      "ear": 0.422,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 617.2,
+      "bpm": 25.6,
+      "ear": 0.507,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 618.2,
+      "bpm": 25.6,
+      "ear": 0.466,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 619.2,
+      "bpm": 25.7,
+      "ear": 0.486,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 620.2,
+      "bpm": 25.7,
+      "ear": 0.39,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 621.3,
+      "bpm": 25.8,
+      "ear": 0.407,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 622.3,
+      "bpm": 25.8,
+      "ear": 0.393,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 623.3,
+      "bpm": 25.8,
+      "ear": 0.4,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 624.4,
+      "bpm": 25.9,
+      "ear": 0.388,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 625.4,
+      "bpm": 25.9,
+      "ear": 0.409,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 626.4,
+      "bpm": 25.9,
+      "ear": 0.424,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 627.4,
+      "bpm": 25.9,
+      "ear": 0.462,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 628.5,
+      "bpm": 25.9,
+      "ear": 0.504,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 629.5,
+      "bpm": 25.9,
+      "ear": 0.465,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 630.5,
+      "bpm": 25.9,
+      "ear": 0.471,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 631.5,
+      "bpm": 25.9,
+      "ear": 0.471,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 632.5,
+      "bpm": 25.9,
+      "ear": 0.501,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 633.6,
+      "bpm": 25.9,
+      "ear": 0.509,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 634.6,
+      "bpm": 25.9,
+      "ear": 0.48,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 635.6,
+      "bpm": 26.0,
+      "ear": 0.445,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 636.6,
+      "bpm": 26.0,
+      "ear": 0.433,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 637.6,
+      "bpm": 26.0,
+      "ear": 0.413,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 638.6,
+      "bpm": 26.0,
+      "ear": 0.434,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 639.6,
+      "bpm": 26.1,
+      "ear": 0.421,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 640.7,
+      "bpm": 26.1,
+      "ear": 0.395,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 641.7,
+      "bpm": 26.1,
+      "ear": 0.38,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 642.7,
+      "bpm": 26.1,
+      "ear": 0.414,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 643.8,
+      "bpm": 26.1,
+      "ear": 0.446,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 644.8,
+      "bpm": 26.1,
+      "ear": 0.437,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 645.8,
+      "bpm": 26.1,
+      "ear": 0.451,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 646.8,
+      "bpm": 26.1,
+      "ear": 0.424,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 647.9,
+      "bpm": 26.1,
+      "ear": 0.431,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 648.9,
+      "bpm": 26.1,
+      "ear": 0.432,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 649.9,
+      "bpm": 26.1,
+      "ear": 0.489,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 651.0,
+      "bpm": 26.1,
+      "ear": 0.451,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 652.0,
+      "bpm": 26.1,
+      "ear": 0.402,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 653.0,
+      "bpm": 26.1,
+      "ear": 0.435,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 654.0,
+      "bpm": 26.1,
+      "ear": 0.425,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 655.1,
+      "bpm": 26.0,
+      "ear": 0.441,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 656.1,
+      "bpm": 26.0,
+      "ear": 0.474,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 657.1,
+      "bpm": 26.0,
+      "ear": 0.486,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 658.1,
+      "bpm": 26.0,
+      "ear": 0.49,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 659.1,
+      "bpm": 26.0,
+      "ear": 0.487,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 660.2,
+      "bpm": 26.0,
+      "ear": 0.472,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 661.2,
+      "bpm": 26.0,
+      "ear": 0.455,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 662.2,
+      "bpm": 26.0,
+      "ear": 0.486,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 663.3,
+      "bpm": 26.0,
+      "ear": 0.471,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 664.3,
+      "bpm": 26.0,
+      "ear": 0.485,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 665.3,
+      "bpm": 25.9,
+      "ear": 0.481,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 666.3,
+      "bpm": 25.9,
+      "ear": 0.514,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 667.4,
+      "bpm": 25.9,
+      "ear": 0.483,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 668.4,
+      "bpm": 25.9,
+      "ear": 0.484,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 669.5,
+      "bpm": 25.9,
+      "ear": 0.477,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 670.6,
+      "bpm": 26.0,
+      "ear": 0.487,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 671.6,
+      "bpm": 26.0,
+      "ear": 0.488,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 672.7,
+      "bpm": 26.0,
+      "ear": 0.498,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 673.7,
+      "bpm": 26.0,
+      "ear": 0.486,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 674.7,
+      "bpm": 26.0,
+      "ear": 0.5,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 675.7,
+      "bpm": 26.0,
+      "ear": 0.491,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 676.7,
+      "bpm": 26.0,
+      "ear": 0.499,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 677.7,
+      "bpm": 26.0,
+      "ear": 0.498,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 678.8,
+      "bpm": 25.9,
+      "ear": 0.419,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 679.8,
+      "bpm": 25.9,
+      "ear": 0.497,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 680.8,
+      "bpm": 25.9,
+      "ear": 0.389,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 681.9,
+      "bpm": 25.9,
+      "ear": 0.0,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 682.9,
+      "bpm": 25.9,
+      "ear": 0.0,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 683.9,
+      "bpm": 25.8,
+      "ear": 0.446,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 684.9,
+      "bpm": 25.8,
+      "ear": 0.492,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 685.9,
+      "bpm": 25.9,
+      "ear": 0.515,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 687.0,
+      "bpm": 25.9,
+      "ear": 0.511,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 688.0,
+      "bpm": 25.9,
+      "ear": 0.475,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 689.0,
+      "bpm": 25.9,
+      "ear": 0.478,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 690.1,
+      "bpm": 25.9,
+      "ear": 0.4,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 691.1,
+      "bpm": 25.9,
+      "ear": 0.394,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 692.1,
+      "bpm": 25.8,
+      "ear": 0.462,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 693.1,
+      "bpm": 25.8,
+      "ear": 0.44,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 694.2,
+      "bpm": 25.8,
+      "ear": 0.454,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 695.2,
+      "bpm": 25.8,
+      "ear": 0.478,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 696.2,
+      "bpm": 25.8,
+      "ear": 0.458,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 697.3,
+      "bpm": 25.8,
+      "ear": 0.453,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 698.3,
+      "bpm": 25.8,
+      "ear": 0.46,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 699.4,
+      "bpm": 25.8,
+      "ear": 0.449,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 700.4,
+      "bpm": 25.8,
+      "ear": 0.475,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 701.4,
+      "bpm": 25.8,
+      "ear": 0.477,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 702.4,
+      "bpm": 25.8,
+      "ear": 0.461,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 703.5,
+      "bpm": 25.8,
+      "ear": 0.488,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 704.5,
+      "bpm": 25.8,
+      "ear": 0.514,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 705.6,
+      "bpm": 25.8,
+      "ear": 0.473,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 706.6,
+      "bpm": 25.8,
+      "ear": 0.454,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 707.6,
+      "bpm": 25.8,
+      "ear": 0.456,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 708.7,
+      "bpm": 25.8,
+      "ear": 0.48,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 709.8,
+      "bpm": 25.9,
+      "ear": 0.479,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 710.8,
+      "bpm": 25.9,
+      "ear": 0.482,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 711.8,
+      "bpm": 25.9,
+      "ear": 0.505,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 712.9,
+      "bpm": 25.9,
+      "ear": 0.497,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 713.9,
+      "bpm": 25.9,
+      "ear": 0.48,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 714.9,
+      "bpm": 25.9,
+      "ear": 0.446,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 716.0,
+      "bpm": 26.0,
+      "ear": 0.0,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 717.0,
+      "bpm": 26.0,
+      "ear": 0.462,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 718.1,
+      "bpm": 26.0,
+      "ear": 0.455,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 719.1,
+      "bpm": 26.0,
+      "ear": 0.486,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 720.2,
+      "bpm": 26.0,
+      "ear": 0.481,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 721.2,
+      "bpm": 26.0,
+      "ear": 0.514,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 722.3,
+      "bpm": 26.0,
+      "ear": 0.48,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 723.3,
+      "bpm": 26.0,
+      "ear": 0.491,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 724.3,
+      "bpm": 26.0,
+      "ear": 0.507,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 725.3,
+      "bpm": 26.0,
+      "ear": 0.512,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 726.4,
+      "bpm": 26.0,
+      "ear": 0.524,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 727.4,
+      "bpm": 26.0,
+      "ear": 0.523,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 728.4,
+      "bpm": 26.0,
+      "ear": 0.502,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 729.5,
+      "bpm": 25.9,
+      "ear": 0.505,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 730.5,
+      "bpm": 25.9,
+      "ear": 0.508,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 731.5,
+      "bpm": 25.9,
+      "ear": 0.507,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 732.6,
+      "bpm": 25.8,
+      "ear": 0.514,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 733.6,
+      "bpm": 25.8,
+      "ear": 0.494,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 734.6,
+      "bpm": 25.8,
+      "ear": 0.502,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 735.6,
+      "bpm": 25.8,
+      "ear": 0.512,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 736.7,
+      "bpm": 25.8,
+      "ear": 0.505,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 737.7,
+      "bpm": 25.8,
+      "ear": 0.506,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 738.7,
+      "bpm": 25.7,
+      "ear": 0.485,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 739.7,
+      "bpm": 25.7,
+      "ear": 0.452,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 740.7,
+      "bpm": 25.7,
+      "ear": 0.481,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 741.7,
+      "bpm": 25.7,
+      "ear": 0.474,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 742.8,
+      "bpm": 25.7,
+      "ear": 0.479,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 743.8,
+      "bpm": 25.7,
+      "ear": 0.493,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 744.9,
+      "bpm": 25.7,
+      "ear": 0.499,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 745.9,
+      "bpm": 25.7,
+      "ear": 0.504,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 747.0,
+      "bpm": 25.6,
+      "ear": 0.493,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 748.0,
+      "bpm": 25.6,
+      "ear": 0.474,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 749.0,
+      "bpm": 25.6,
+      "ear": 0.491,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 750.0,
+      "bpm": 25.6,
+      "ear": 0.483,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 751.1,
+      "bpm": 25.6,
+      "ear": 0.469,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 752.1,
+      "bpm": 25.5,
+      "ear": 0.478,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 753.2,
+      "bpm": 25.5,
+      "ear": 0.503,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 754.2,
+      "bpm": 25.5,
+      "ear": 0.454,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 755.3,
+      "bpm": 25.5,
+      "ear": 0.472,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 756.3,
+      "bpm": 25.4,
+      "ear": 0.502,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 757.3,
+      "bpm": 25.4,
+      "ear": 0.477,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 758.4,
+      "bpm": 25.4,
+      "ear": 0.443,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 759.4,
+      "bpm": 25.5,
+      "ear": 0.455,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 760.4,
+      "bpm": 25.5,
+      "ear": 0.459,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 761.5,
+      "bpm": 25.5,
+      "ear": 0.457,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 762.5,
+      "bpm": 25.6,
+      "ear": 0.441,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 763.5,
+      "bpm": 25.6,
+      "ear": 0.463,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 764.6,
+      "bpm": 25.7,
+      "ear": 0.463,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 765.6,
+      "bpm": 25.8,
+      "ear": 0.467,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 766.6,
+      "bpm": 25.8,
+      "ear": 0.458,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 767.6,
+      "bpm": 25.9,
+      "ear": 0.446,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 768.6,
+      "bpm": 25.9,
+      "ear": 0.403,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 769.6,
+      "bpm": 26.0,
+      "ear": 0.39,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 770.7,
+      "bpm": 26.0,
+      "ear": 0.402,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 771.7,
+      "bpm": 26.0,
+      "ear": 0.392,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 772.8,
+      "bpm": 26.0,
+      "ear": 0.441,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 773.8,
+      "bpm": 26.0,
+      "ear": 0.425,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 774.8,
+      "bpm": 26.0,
+      "ear": 0.448,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 775.9,
+      "bpm": 26.0,
+      "ear": 0.0,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 776.9,
+      "bpm": 26.0,
+      "ear": 0.459,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 777.9,
+      "bpm": 25.9,
+      "ear": 0.495,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 778.9,
+      "bpm": 25.9,
+      "ear": 0.423,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 780.0,
+      "bpm": 25.9,
+      "ear": 0.423,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 781.0,
+      "bpm": 25.9,
+      "ear": 0.412,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 782.0,
+      "bpm": 25.8,
+      "ear": 0.392,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 783.1,
+      "bpm": 25.8,
+      "ear": 0.468,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 784.1,
+      "bpm": 25.8,
+      "ear": 0.48,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 785.1,
+      "bpm": 25.8,
+      "ear": 0.465,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 786.1,
+      "bpm": 25.8,
+      "ear": 0.445,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 787.2,
+      "bpm": 25.8,
+      "ear": 0.472,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 788.2,
+      "bpm": 25.8,
+      "ear": 0.446,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 789.2,
+      "bpm": 25.8,
+      "ear": 0.492,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 790.3,
+      "bpm": 25.9,
+      "ear": 0.501,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 791.3,
+      "bpm": 25.9,
+      "ear": 0.504,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 792.3,
+      "bpm": 25.9,
+      "ear": 0.48,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 793.3,
+      "bpm": 25.9,
+      "ear": 0.462,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 794.4,
+      "bpm": 25.9,
+      "ear": 0.499,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 795.4,
+      "bpm": 26.0,
+      "ear": 0.423,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 796.4,
+      "bpm": 26.0,
+      "ear": 0.426,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 797.5,
+      "bpm": 26.0,
+      "ear": 0.463,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 798.5,
+      "bpm": 26.0,
+      "ear": 0.487,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 799.6,
+      "bpm": 26.0,
+      "ear": 0.495,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 800.7,
+      "bpm": 26.0,
+      "ear": 0.509,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 801.7,
+      "bpm": 26.0,
+      "ear": 0.506,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 802.7,
+      "bpm": 26.0,
+      "ear": 0.492,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 803.8,
+      "bpm": 26.0,
+      "ear": 0.503,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 804.8,
+      "bpm": 26.0,
+      "ear": 0.496,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 805.8,
+      "bpm": 26.0,
+      "ear": 0.504,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 806.8,
+      "bpm": 26.0,
+      "ear": 0.505,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 807.9,
+      "bpm": 26.0,
+      "ear": 0.498,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 808.9,
+      "bpm": 26.0,
+      "ear": 0.469,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 809.9,
+      "bpm": 26.0,
+      "ear": 0.5,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 811.0,
+      "bpm": 26.0,
+      "ear": 0.455,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 812.1,
+      "bpm": 26.0,
+      "ear": 0.531,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 813.1,
+      "bpm": 25.9,
+      "ear": 0.523,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 814.1,
+      "bpm": 25.9,
+      "ear": 0.513,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 815.2,
+      "bpm": 25.9,
+      "ear": 0.527,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 816.2,
+      "bpm": 25.9,
+      "ear": 0.532,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 817.2,
+      "bpm": 25.9,
+      "ear": 0.538,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 818.3,
+      "bpm": 25.9,
+      "ear": 0.445,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 819.3,
+      "bpm": 25.9,
+      "ear": 0.463,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 820.4,
+      "bpm": 25.9,
+      "ear": 0.441,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 821.5,
+      "bpm": 25.9,
+      "ear": 0.465,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 822.5,
+      "bpm": 26.0,
+      "ear": 0.503,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 823.6,
+      "bpm": 26.0,
+      "ear": 0.514,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 824.6,
+      "bpm": 26.0,
+      "ear": 0.463,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 825.6,
+      "bpm": 26.0,
+      "ear": 0.501,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 826.6,
+      "bpm": 26.0,
+      "ear": 0.477,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 827.6,
+      "bpm": 26.0,
+      "ear": 0.459,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 828.7,
+      "bpm": 26.1,
+      "ear": 0.514,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 829.7,
+      "bpm": 26.1,
+      "ear": 0.499,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 830.7,
+      "bpm": 26.1,
+      "ear": 0.509,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 831.7,
+      "bpm": 26.1,
+      "ear": 0.497,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 832.7,
+      "bpm": 26.1,
+      "ear": 0.485,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 833.7,
+      "bpm": 26.1,
+      "ear": 0.483,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 834.8,
+      "bpm": 26.1,
+      "ear": 0.482,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 835.8,
+      "bpm": 26.1,
+      "ear": 0.476,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 836.9,
+      "bpm": 26.1,
+      "ear": 0.498,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 837.9,
+      "bpm": 26.1,
+      "ear": 0.491,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 839.0,
+      "bpm": 26.1,
+      "ear": 0.482,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 840.1,
+      "bpm": 26.0,
+      "ear": 0.493,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 841.1,
+      "bpm": 26.0,
+      "ear": 0.492,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 842.1,
+      "bpm": 26.0,
+      "ear": 0.489,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 843.2,
+      "bpm": 25.9,
+      "ear": 0.492,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 844.2,
+      "bpm": 25.9,
+      "ear": 0.484,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 845.3,
+      "bpm": 25.9,
+      "ear": 0.494,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 846.3,
+      "bpm": 25.8,
+      "ear": 0.487,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 847.4,
+      "bpm": 25.8,
+      "ear": 0.494,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 848.4,
+      "bpm": 25.8,
+      "ear": 0.494,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 849.4,
+      "bpm": 25.7,
+      "ear": 0.513,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 850.5,
+      "bpm": 25.7,
+      "ear": 0.53,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 851.5,
+      "bpm": 25.7,
+      "ear": 0.528,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 852.6,
+      "bpm": 25.7,
+      "ear": 0.532,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 853.6,
+      "bpm": 25.6,
+      "ear": 0.429,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 854.7,
+      "bpm": 25.6,
+      "ear": 0.481,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 855.7,
+      "bpm": 25.6,
+      "ear": 0.514,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 856.7,
+      "bpm": 25.6,
+      "ear": 0.495,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 857.7,
+      "bpm": 25.6,
+      "ear": 0.484,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 858.7,
+      "bpm": 25.6,
+      "ear": 0.497,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 859.8,
+      "bpm": 25.6,
+      "ear": 0.505,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 860.8,
+      "bpm": 25.6,
+      "ear": 0.518,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 861.8,
+      "bpm": 25.6,
+      "ear": 0.411,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 862.8,
+      "bpm": 25.6,
+      "ear": 0.383,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 863.8,
+      "bpm": 25.6,
+      "ear": 0.419,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 864.8,
+      "bpm": 25.6,
+      "ear": 0.398,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 865.9,
+      "bpm": 25.5,
+      "ear": 0.403,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 866.9,
+      "bpm": 25.5,
+      "ear": 0.404,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 867.9,
+      "bpm": 25.5,
+      "ear": 0.396,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 868.9,
+      "bpm": 25.5,
+      "ear": 0.406,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 869.9,
+      "bpm": 25.4,
+      "ear": 0.387,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 871.0,
+      "bpm": 25.4,
+      "ear": 0.413,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 872.0,
+      "bpm": 25.4,
+      "ear": 0.425,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 873.0,
+      "bpm": 25.3,
+      "ear": 0.397,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 874.1,
+      "bpm": 25.3,
+      "ear": 0.413,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 875.1,
+      "bpm": 25.3,
+      "ear": 0.506,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 876.2,
+      "bpm": 25.2,
+      "ear": 0.471,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 877.2,
+      "bpm": 25.2,
+      "ear": 0.47,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 878.2,
+      "bpm": 25.2,
+      "ear": 0.484,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 879.2,
+      "bpm": 25.2,
+      "ear": 0.405,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 880.2,
+      "bpm": 25.2,
+      "ear": 0.394,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 881.3,
+      "bpm": 25.2,
+      "ear": 0.398,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 882.3,
+      "bpm": 25.2,
+      "ear": 0.409,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 883.3,
+      "bpm": 25.2,
+      "ear": 0.46,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 884.3,
+      "bpm": 25.3,
+      "ear": 0.464,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 885.4,
+      "bpm": 25.3,
+      "ear": 0.394,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 886.4,
+      "bpm": 25.3,
+      "ear": 0.433,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 887.4,
+      "bpm": 25.3,
+      "ear": 0.468,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 888.4,
+      "bpm": 25.3,
+      "ear": 0.404,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 889.5,
+      "bpm": 25.3,
+      "ear": 0.424,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 890.5,
+      "bpm": 25.3,
+      "ear": 0.485,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 891.5,
+      "bpm": 25.3,
+      "ear": 0.368,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 892.5,
+      "bpm": 25.3,
+      "ear": 0.496,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 893.5,
+      "bpm": 25.3,
+      "ear": 0.401,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 894.6,
+      "bpm": 25.3,
+      "ear": 0.458,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 895.6,
+      "bpm": 25.3,
+      "ear": 0.416,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 896.6,
+      "bpm": 25.3,
+      "ear": 0.411,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 897.7,
+      "bpm": 25.3,
+      "ear": 0.414,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 898.7,
+      "bpm": 25.3,
+      "ear": 0.411,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 899.7,
+      "bpm": 25.3,
+      "ear": 0.493,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 900.7,
+      "bpm": 25.3,
+      "ear": 0.427,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 901.7,
+      "bpm": 25.3,
+      "ear": 0.424,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 902.7,
+      "bpm": 25.2,
+      "ear": 0.427,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 903.8,
+      "bpm": 25.2,
+      "ear": 0.462,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 904.8,
+      "bpm": 25.2,
+      "ear": 0.465,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 905.8,
+      "bpm": 25.3,
+      "ear": 0.444,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 906.8,
+      "bpm": 25.3,
+      "ear": 0.463,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 907.9,
+      "bpm": 25.3,
+      "ear": 0.384,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 908.9,
+      "bpm": 25.3,
+      "ear": 0.402,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 909.9,
+      "bpm": 25.3,
+      "ear": 0.449,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 911.0,
+      "bpm": 25.4,
+      "ear": 0.436,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 912.0,
+      "bpm": 25.4,
+      "ear": 0.438,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 913.0,
+      "bpm": 25.3,
+      "ear": 0.416,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 914.0,
+      "bpm": 25.3,
+      "ear": 0.427,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 915.1,
+      "bpm": 25.3,
+      "ear": 0.404,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 916.1,
+      "bpm": 25.2,
+      "ear": 0.443,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 917.1,
+      "bpm": 25.2,
+      "ear": 0.408,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 918.2,
+      "bpm": 25.2,
+      "ear": 0.423,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 919.2,
+      "bpm": 25.2,
+      "ear": 0.458,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 920.2,
+      "bpm": 25.1,
+      "ear": 0.479,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 921.3,
+      "bpm": 25.1,
+      "ear": 0.492,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 922.3,
+      "bpm": 25.1,
+      "ear": 0.489,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 923.3,
+      "bpm": 25.1,
+      "ear": 0.499,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 924.4,
+      "bpm": 25.1,
+      "ear": 0.483,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 925.4,
+      "bpm": 25.1,
+      "ear": 0.491,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 926.4,
+      "bpm": 25.0,
+      "ear": 0.513,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 927.4,
+      "bpm": 25.0,
+      "ear": 0.525,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 928.5,
+      "bpm": 25.0,
+      "ear": 0.508,
+      "status": "Frequent blinking \u2014 possible irritation"
+    },
+    {
+      "t": 929.6,
+      "bpm": 25.0,
+      "ear": 0.513,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 930.6,
+      "bpm": 25.0,
+      "ear": 0.51,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 931.6,
+      "bpm": 25.0,
+      "ear": 0.447,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 932.7,
+      "bpm": 24.9,
+      "ear": 0.5,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 933.7,
+      "bpm": 24.9,
+      "ear": 0.5,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 934.8,
+      "bpm": 24.9,
+      "ear": 0.514,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 935.8,
+      "bpm": 24.9,
+      "ear": 0.499,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 936.9,
+      "bpm": 24.9,
+      "ear": 0.512,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 937.9,
+      "bpm": 24.9,
+      "ear": 0.504,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 938.9,
+      "bpm": 24.9,
+      "ear": 0.519,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 939.9,
+      "bpm": 24.9,
+      "ear": 0.507,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 941.0,
+      "bpm": 24.8,
+      "ear": 0.519,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 942.0,
+      "bpm": 24.8,
+      "ear": 0.527,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 943.0,
+      "bpm": 24.8,
+      "ear": 0.529,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 944.1,
+      "bpm": 24.8,
+      "ear": 0.532,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 945.1,
+      "bpm": 24.8,
+      "ear": 0.529,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 946.1,
+      "bpm": 24.7,
+      "ear": 0.51,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 947.2,
+      "bpm": 24.7,
+      "ear": 0.505,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 948.2,
+      "bpm": 24.7,
+      "ear": 0.512,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 949.2,
+      "bpm": 24.7,
+      "ear": 0.491,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 950.2,
+      "bpm": 24.6,
+      "ear": 0.478,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 951.3,
+      "bpm": 24.6,
+      "ear": 0.499,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 952.3,
+      "bpm": 24.6,
+      "ear": 0.506,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 953.4,
+      "bpm": 24.6,
+      "ear": 0.5,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 954.5,
+      "bpm": 24.5,
+      "ear": 0.501,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 955.5,
+      "bpm": 24.5,
+      "ear": 0.521,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 956.6,
+      "bpm": 24.5,
+      "ear": 0.522,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 957.6,
+      "bpm": 24.4,
+      "ear": 0.514,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 958.6,
+      "bpm": 24.4,
+      "ear": 0.453,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 959.7,
+      "bpm": 24.4,
+      "ear": 0.531,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 960.8,
+      "bpm": 24.4,
+      "ear": 0.524,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 961.8,
+      "bpm": 24.4,
+      "ear": 0.518,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 962.9,
+      "bpm": 24.3,
+      "ear": 0.52,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 963.9,
+      "bpm": 24.3,
+      "ear": 0.539,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 965.0,
+      "bpm": 24.3,
+      "ear": 0.389,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 966.0,
+      "bpm": 24.3,
+      "ear": 0.478,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 967.0,
+      "bpm": 24.3,
+      "ear": 0.493,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 968.0,
+      "bpm": 24.2,
+      "ear": 0.45,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 969.0,
+      "bpm": 24.2,
+      "ear": 0.407,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 970.0,
+      "bpm": 24.2,
+      "ear": 0.406,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 971.1,
+      "bpm": 24.2,
+      "ear": 0.486,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 972.1,
+      "bpm": 24.2,
+      "ear": 0.496,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 973.1,
+      "bpm": 24.1,
+      "ear": 0.499,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 974.1,
+      "bpm": 24.1,
+      "ear": 0.514,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 975.1,
+      "bpm": 24.1,
+      "ear": 0.458,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 976.1,
+      "bpm": 24.1,
+      "ear": 0.497,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 977.2,
+      "bpm": 24.1,
+      "ear": 0.49,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 978.2,
+      "bpm": 24.1,
+      "ear": 0.498,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 979.2,
+      "bpm": 24.1,
+      "ear": 0.493,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 980.3,
+      "bpm": 24.1,
+      "ear": 0.498,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 981.3,
+      "bpm": 24.0,
+      "ear": 0.378,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 982.3,
+      "bpm": 24.0,
+      "ear": 0.419,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 983.4,
+      "bpm": 24.0,
+      "ear": 0.413,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 984.4,
+      "bpm": 24.0,
+      "ear": 0.429,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 985.4,
+      "bpm": 24.0,
+      "ear": 0.423,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 986.4,
+      "bpm": 23.9,
+      "ear": 0.442,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 987.5,
+      "bpm": 23.9,
+      "ear": 0.425,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 988.5,
+      "bpm": 23.9,
+      "ear": 0.435,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 989.5,
+      "bpm": 23.9,
+      "ear": 0.444,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 990.5,
+      "bpm": 23.8,
+      "ear": 0.446,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 991.5,
+      "bpm": 23.8,
+      "ear": 0.403,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 992.6,
+      "bpm": 23.8,
+      "ear": 0.425,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 993.6,
+      "bpm": 23.8,
+      "ear": 0.424,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 994.6,
+      "bpm": 23.7,
+      "ear": 0.473,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 995.6,
+      "bpm": 23.7,
+      "ear": 0.399,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 996.6,
+      "bpm": 23.7,
+      "ear": 0.488,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 997.7,
+      "bpm": 23.7,
+      "ear": 0.418,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 998.7,
+      "bpm": 23.7,
+      "ear": 0.49,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 999.7,
+      "bpm": 23.7,
+      "ear": 0.392,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1000.8,
+      "bpm": 23.7,
+      "ear": 0.377,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1001.8,
+      "bpm": 23.7,
+      "ear": 0.448,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1002.8,
+      "bpm": 23.7,
+      "ear": 0.435,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1003.8,
+      "bpm": 23.7,
+      "ear": 0.431,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1004.9,
+      "bpm": 23.6,
+      "ear": 0.431,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1005.9,
+      "bpm": 23.6,
+      "ear": 0.408,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1006.9,
+      "bpm": 23.6,
+      "ear": 0.465,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1008.0,
+      "bpm": 23.6,
+      "ear": 0.405,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1009.0,
+      "bpm": 23.6,
+      "ear": 0.457,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1010.0,
+      "bpm": 23.5,
+      "ear": 0.393,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1011.1,
+      "bpm": 23.5,
+      "ear": 0.463,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1012.1,
+      "bpm": 23.5,
+      "ear": 0.426,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1013.1,
+      "bpm": 23.5,
+      "ear": 0.44,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1014.2,
+      "bpm": 23.5,
+      "ear": 0.48,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1015.2,
+      "bpm": 23.4,
+      "ear": 0.427,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1016.2,
+      "bpm": 23.4,
+      "ear": 0.47,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1017.3,
+      "bpm": 23.4,
+      "ear": 0.483,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1018.3,
+      "bpm": 23.4,
+      "ear": 0.471,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1019.3,
+      "bpm": 23.4,
+      "ear": 0.501,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1020.4,
+      "bpm": 23.4,
+      "ear": 0.383,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1021.4,
+      "bpm": 23.5,
+      "ear": 0.44,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1022.4,
+      "bpm": 23.5,
+      "ear": 0.476,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1023.4,
+      "bpm": 23.5,
+      "ear": 0.382,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1024.4,
+      "bpm": 23.4,
+      "ear": 0.434,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1025.4,
+      "bpm": 23.4,
+      "ear": 0.377,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1026.4,
+      "bpm": 23.4,
+      "ear": 0.436,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1027.4,
+      "bpm": 23.4,
+      "ear": 0.48,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1028.4,
+      "bpm": 23.4,
+      "ear": 0.413,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1029.4,
+      "bpm": 23.3,
+      "ear": 0.443,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1030.5,
+      "bpm": 23.3,
+      "ear": 0.474,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1031.5,
+      "bpm": 23.3,
+      "ear": 0.449,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1032.5,
+      "bpm": 23.4,
+      "ear": 0.479,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1033.5,
+      "bpm": 23.4,
+      "ear": 0.417,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1034.5,
+      "bpm": 23.4,
+      "ear": 0.419,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1035.5,
+      "bpm": 23.4,
+      "ear": 0.442,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1036.5,
+      "bpm": 23.5,
+      "ear": 0.47,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1037.6,
+      "bpm": 23.5,
+      "ear": 0.468,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1038.6,
+      "bpm": 23.6,
+      "ear": 0.464,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1039.6,
+      "bpm": 23.6,
+      "ear": 0.477,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1040.6,
+      "bpm": 23.7,
+      "ear": 0.486,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1041.6,
+      "bpm": 23.8,
+      "ear": 0.457,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1042.6,
+      "bpm": 23.8,
+      "ear": 0.459,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1043.7,
+      "bpm": 23.9,
+      "ear": 0.481,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1044.7,
+      "bpm": 24.0,
+      "ear": 0.486,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1045.7,
+      "bpm": 24.0,
+      "ear": 0.486,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1046.8,
+      "bpm": 24.1,
+      "ear": 0.507,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1047.8,
+      "bpm": 24.1,
+      "ear": 0.479,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1048.8,
+      "bpm": 24.1,
+      "ear": 0.493,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1049.8,
+      "bpm": 24.2,
+      "ear": 0.421,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1050.8,
+      "bpm": 24.2,
+      "ear": 0.431,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1051.9,
+      "bpm": 24.1,
+      "ear": 0.404,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1052.9,
+      "bpm": 24.1,
+      "ear": 0.427,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1053.9,
+      "bpm": 24.1,
+      "ear": 0.459,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1054.9,
+      "bpm": 24.1,
+      "ear": 0.422,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1056.0,
+      "bpm": 24.1,
+      "ear": 0.441,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1057.0,
+      "bpm": 24.1,
+      "ear": 0.441,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1058.0,
+      "bpm": 24.1,
+      "ear": 0.44,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1059.1,
+      "bpm": 24.1,
+      "ear": 0.438,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1060.1,
+      "bpm": 24.1,
+      "ear": 0.45,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1061.1,
+      "bpm": 24.0,
+      "ear": 0.42,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1062.2,
+      "bpm": 24.0,
+      "ear": 0.427,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1063.2,
+      "bpm": 24.0,
+      "ear": 0.432,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1064.2,
+      "bpm": 24.0,
+      "ear": 0.444,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1065.3,
+      "bpm": 24.0,
+      "ear": 0.464,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1066.3,
+      "bpm": 24.0,
+      "ear": 0.47,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1067.3,
+      "bpm": 24.0,
+      "ear": 0.501,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1068.3,
+      "bpm": 24.0,
+      "ear": 0.438,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1069.3,
+      "bpm": 24.0,
+      "ear": 0.454,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1070.4,
+      "bpm": 24.1,
+      "ear": 0.488,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1071.4,
+      "bpm": 24.1,
+      "ear": 0.446,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1072.4,
+      "bpm": 24.2,
+      "ear": 0.417,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1073.5,
+      "bpm": 24.2,
+      "ear": 0.427,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1074.5,
+      "bpm": 24.2,
+      "ear": 0.463,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1075.5,
+      "bpm": 24.2,
+      "ear": 0.431,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1076.6,
+      "bpm": 24.2,
+      "ear": 0.402,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1077.6,
+      "bpm": 24.2,
+      "ear": 0.421,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1078.6,
+      "bpm": 24.2,
+      "ear": 0.424,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1079.6,
+      "bpm": 24.2,
+      "ear": 0.409,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1080.7,
+      "bpm": 24.1,
+      "ear": 0.468,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1081.7,
+      "bpm": 24.1,
+      "ear": 0.486,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1082.7,
+      "bpm": 24.1,
+      "ear": 0.441,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1083.8,
+      "bpm": 24.1,
+      "ear": 0.452,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1084.8,
+      "bpm": 24.2,
+      "ear": 0.463,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1085.8,
+      "bpm": 24.2,
+      "ear": 0.426,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1086.8,
+      "bpm": 24.2,
+      "ear": 0.46,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1087.9,
+      "bpm": 24.2,
+      "ear": 0.365,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1088.9,
+      "bpm": 24.2,
+      "ear": 0.426,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1089.9,
+      "bpm": 24.3,
+      "ear": 0.404,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1091.0,
+      "bpm": 24.3,
+      "ear": 0.413,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1092.0,
+      "bpm": 24.3,
+      "ear": 0.452,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1093.1,
+      "bpm": 24.3,
+      "ear": 0.398,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1094.1,
+      "bpm": 24.3,
+      "ear": 0.391,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1095.1,
+      "bpm": 24.3,
+      "ear": 0.379,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1096.1,
+      "bpm": 24.3,
+      "ear": 0.422,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1097.1,
+      "bpm": 24.3,
+      "ear": 0.453,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1098.1,
+      "bpm": 24.2,
+      "ear": 0.401,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1099.1,
+      "bpm": 24.2,
+      "ear": 0.439,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1100.2,
+      "bpm": 24.2,
+      "ear": 0.447,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1101.2,
+      "bpm": 24.2,
+      "ear": 0.482,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1102.2,
+      "bpm": 24.2,
+      "ear": 0.478,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1103.2,
+      "bpm": 24.2,
+      "ear": 0.434,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1104.2,
+      "bpm": 24.2,
+      "ear": 0.447,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1105.3,
+      "bpm": 24.2,
+      "ear": 0.428,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1106.3,
+      "bpm": 24.2,
+      "ear": 0.433,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1107.3,
+      "bpm": 24.2,
+      "ear": 0.416,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1108.3,
+      "bpm": 24.2,
+      "ear": 0.417,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1109.3,
+      "bpm": 24.2,
+      "ear": 0.48,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1110.3,
+      "bpm": 24.1,
+      "ear": 0.497,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1111.4,
+      "bpm": 24.1,
+      "ear": 0.495,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1112.4,
+      "bpm": 24.1,
+      "ear": 0.498,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1113.4,
+      "bpm": 24.1,
+      "ear": 0.502,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1114.4,
+      "bpm": 24.1,
+      "ear": 0.455,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1115.5,
+      "bpm": 24.1,
+      "ear": 0.496,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1116.6,
+      "bpm": 24.1,
+      "ear": 0.506,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1117.6,
+      "bpm": 24.1,
+      "ear": 0.497,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1118.7,
+      "bpm": 24.1,
+      "ear": 0.512,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1119.7,
+      "bpm": 24.1,
+      "ear": 0.509,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1120.7,
+      "bpm": 24.1,
+      "ear": 0.507,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1121.7,
+      "bpm": 24.1,
+      "ear": 0.493,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1122.8,
+      "bpm": 24.1,
+      "ear": 0.504,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1123.8,
+      "bpm": 24.1,
+      "ear": 0.521,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1124.9,
+      "bpm": 24.1,
+      "ear": 0.515,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1126.0,
+      "bpm": 24.1,
+      "ear": 0.519,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1127.0,
+      "bpm": 24.1,
+      "ear": 0.506,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1128.0,
+      "bpm": 24.1,
+      "ear": 0.523,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1129.0,
+      "bpm": 24.1,
+      "ear": 0.494,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1130.1,
+      "bpm": 24.1,
+      "ear": 0.486,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1131.2,
+      "bpm": 24.1,
+      "ear": 0.511,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1132.2,
+      "bpm": 24.0,
+      "ear": 0.505,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1133.2,
+      "bpm": 24.0,
+      "ear": 0.492,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1134.3,
+      "bpm": 24.0,
+      "ear": 0.496,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1135.3,
+      "bpm": 24.0,
+      "ear": 0.479,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1136.3,
+      "bpm": 24.0,
+      "ear": 0.483,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1137.4,
+      "bpm": 24.0,
+      "ear": 0.504,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1138.5,
+      "bpm": 23.9,
+      "ear": 0.504,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1139.5,
+      "bpm": 23.9,
+      "ear": 0.482,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1140.6,
+      "bpm": 23.9,
+      "ear": 0.469,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1141.6,
+      "bpm": 23.9,
+      "ear": 0.467,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1142.7,
+      "bpm": 23.9,
+      "ear": 0.509,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1143.7,
+      "bpm": 23.8,
+      "ear": 0.48,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1144.8,
+      "bpm": 23.8,
+      "ear": 0.484,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1145.8,
+      "bpm": 23.8,
+      "ear": 0.513,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1146.9,
+      "bpm": 23.8,
+      "ear": 0.497,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1147.9,
+      "bpm": 23.8,
+      "ear": 0.478,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1148.9,
+      "bpm": 23.8,
+      "ear": 0.422,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1150.0,
+      "bpm": 23.7,
+      "ear": 0.406,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1151.0,
+      "bpm": 23.7,
+      "ear": 0.451,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1152.0,
+      "bpm": 23.7,
+      "ear": 0.464,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1153.0,
+      "bpm": 23.7,
+      "ear": 0.466,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1154.1,
+      "bpm": 23.7,
+      "ear": 0.473,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1155.1,
+      "bpm": 23.8,
+      "ear": 0.468,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1156.1,
+      "bpm": 23.8,
+      "ear": 0.477,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1157.1,
+      "bpm": 23.8,
+      "ear": 0.492,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1158.2,
+      "bpm": 23.9,
+      "ear": 0.488,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1159.2,
+      "bpm": 23.9,
+      "ear": 0.494,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1160.3,
+      "bpm": 23.9,
+      "ear": 0.479,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1161.3,
+      "bpm": 24.0,
+      "ear": 0.483,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1162.3,
+      "bpm": 24.0,
+      "ear": 0.494,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1163.3,
+      "bpm": 24.0,
+      "ear": 0.489,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1164.4,
+      "bpm": 24.0,
+      "ear": 0.489,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1165.4,
+      "bpm": 24.0,
+      "ear": 0.495,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1166.4,
+      "bpm": 24.0,
+      "ear": 0.353,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1167.4,
+      "bpm": 23.9,
+      "ear": 0.415,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1168.5,
+      "bpm": 23.9,
+      "ear": 0.421,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1169.5,
+      "bpm": 23.9,
+      "ear": 0.393,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1170.5,
+      "bpm": 23.9,
+      "ear": 0.398,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1171.6,
+      "bpm": 23.9,
+      "ear": 0.423,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1172.6,
+      "bpm": 23.9,
+      "ear": 0.393,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1173.6,
+      "bpm": 23.9,
+      "ear": 0.423,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1174.6,
+      "bpm": 23.9,
+      "ear": 0.0,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1175.6,
+      "bpm": 23.8,
+      "ear": 0.328,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1176.7,
+      "bpm": 23.8,
+      "ear": 0.297,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1177.7,
+      "bpm": 23.8,
+      "ear": 0.321,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1178.7,
+      "bpm": 23.8,
+      "ear": 0.322,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1179.7,
+      "bpm": 23.8,
+      "ear": 0.324,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1180.7,
+      "bpm": 23.8,
+      "ear": 0.29,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1181.8,
+      "bpm": 23.8,
+      "ear": 0.315,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1182.8,
+      "bpm": 23.8,
+      "ear": 0.349,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1183.8,
+      "bpm": 23.7,
+      "ear": 0.341,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1184.8,
+      "bpm": 23.7,
+      "ear": 0.348,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1185.8,
+      "bpm": 23.7,
+      "ear": 0.372,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1186.8,
+      "bpm": 23.7,
+      "ear": 0.366,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1187.8,
+      "bpm": 23.7,
+      "ear": 0.378,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1188.9,
+      "bpm": 23.6,
+      "ear": 0.395,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1189.9,
+      "bpm": 23.6,
+      "ear": 0.422,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1190.9,
+      "bpm": 23.6,
+      "ear": 0.467,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1191.9,
+      "bpm": 23.6,
+      "ear": 0.41,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1192.9,
+      "bpm": 23.6,
+      "ear": 0.404,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1193.9,
+      "bpm": 23.5,
+      "ear": 0.466,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1195.0,
+      "bpm": 23.5,
+      "ear": 0.409,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1196.0,
+      "bpm": 23.5,
+      "ear": 0.441,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1197.0,
+      "bpm": 23.5,
+      "ear": 0.433,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1198.0,
+      "bpm": 23.5,
+      "ear": 0.409,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1199.1,
+      "bpm": 23.4,
+      "ear": 0.449,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1200.1,
+      "bpm": 23.4,
+      "ear": 0.354,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1201.2,
+      "bpm": 23.4,
+      "ear": 0.438,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1202.2,
+      "bpm": 23.4,
+      "ear": 0.476,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1203.3,
+      "bpm": 23.4,
+      "ear": 0.481,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1204.3,
+      "bpm": 23.4,
+      "ear": 0.461,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1205.3,
+      "bpm": 23.4,
+      "ear": 0.45,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1206.4,
+      "bpm": 23.4,
+      "ear": 0.527,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1207.4,
+      "bpm": 23.4,
+      "ear": 0.496,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1208.4,
+      "bpm": 23.4,
+      "ear": 0.528,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1209.5,
+      "bpm": 23.4,
+      "ear": 0.439,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1210.5,
+      "bpm": 23.4,
+      "ear": 0.437,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1211.5,
+      "bpm": 23.4,
+      "ear": 0.449,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1212.6,
+      "bpm": 23.4,
+      "ear": 0.494,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1213.6,
+      "bpm": 23.4,
+      "ear": 0.503,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1214.6,
+      "bpm": 23.4,
+      "ear": 0.498,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1215.6,
+      "bpm": 23.5,
+      "ear": 0.489,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1216.6,
+      "bpm": 23.5,
+      "ear": 0.468,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1217.6,
+      "bpm": 23.5,
+      "ear": 0.46,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1218.7,
+      "bpm": 23.5,
+      "ear": 0.461,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1219.7,
+      "bpm": 23.5,
+      "ear": 0.495,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1220.7,
+      "bpm": 23.5,
+      "ear": 0.501,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1221.8,
+      "bpm": 23.5,
+      "ear": 0.447,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1222.8,
+      "bpm": 23.5,
+      "ear": 0.493,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1223.8,
+      "bpm": 23.5,
+      "ear": 0.474,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1224.8,
+      "bpm": 23.5,
+      "ear": 0.498,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1225.9,
+      "bpm": 23.5,
+      "ear": 0.367,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1226.9,
+      "bpm": 23.5,
+      "ear": 0.387,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1227.9,
+      "bpm": 23.5,
+      "ear": 0.376,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1229.0,
+      "bpm": 23.5,
+      "ear": 0.386,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1230.0,
+      "bpm": 23.4,
+      "ear": 0.4,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1231.0,
+      "bpm": 23.4,
+      "ear": 0.402,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1232.0,
+      "bpm": 23.4,
+      "ear": 0.467,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1233.0,
+      "bpm": 23.4,
+      "ear": 0.374,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1234.0,
+      "bpm": 23.4,
+      "ear": 0.377,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1235.1,
+      "bpm": 23.4,
+      "ear": 0.426,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1236.1,
+      "bpm": 23.4,
+      "ear": 0.396,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1237.1,
+      "bpm": 23.3,
+      "ear": 0.399,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1238.1,
+      "bpm": 23.3,
+      "ear": 0.399,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1239.1,
+      "bpm": 23.3,
+      "ear": 0.416,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1240.2,
+      "bpm": 23.3,
+      "ear": 0.418,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1241.2,
+      "bpm": 23.3,
+      "ear": 0.498,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1242.2,
+      "bpm": 23.3,
+      "ear": 0.476,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1243.2,
+      "bpm": 23.2,
+      "ear": 0.494,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1244.2,
+      "bpm": 23.2,
+      "ear": 0.48,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1245.2,
+      "bpm": 23.2,
+      "ear": 0.483,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1246.3,
+      "bpm": 23.2,
+      "ear": 0.491,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1247.3,
+      "bpm": 23.2,
+      "ear": 0.488,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1248.3,
+      "bpm": 23.2,
+      "ear": 0.499,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1249.3,
+      "bpm": 23.2,
+      "ear": 0.506,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1250.4,
+      "bpm": 23.1,
+      "ear": 0.497,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1251.4,
+      "bpm": 23.1,
+      "ear": 0.493,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1252.4,
+      "bpm": 23.1,
+      "ear": 0.504,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1253.5,
+      "bpm": 23.1,
+      "ear": 0.492,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1254.5,
+      "bpm": 23.1,
+      "ear": 0.49,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1255.5,
+      "bpm": 23.1,
+      "ear": 0.497,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1256.5,
+      "bpm": 23.0,
+      "ear": 0.487,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1257.6,
+      "bpm": 23.0,
+      "ear": 0.504,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1258.6,
+      "bpm": 23.0,
+      "ear": 0.503,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1259.6,
+      "bpm": 23.0,
+      "ear": 0.484,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1260.6,
+      "bpm": 23.0,
+      "ear": 0.484,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1261.7,
+      "bpm": 23.0,
+      "ear": 0.502,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1262.7,
+      "bpm": 23.0,
+      "ear": 0.482,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1263.7,
+      "bpm": 23.0,
+      "ear": 0.488,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1264.8,
+      "bpm": 22.9,
+      "ear": 0.498,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1265.8,
+      "bpm": 22.9,
+      "ear": 0.489,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1266.8,
+      "bpm": 22.9,
+      "ear": 0.493,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1267.9,
+      "bpm": 22.9,
+      "ear": 0.496,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1268.9,
+      "bpm": 22.9,
+      "ear": 0.506,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1269.9,
+      "bpm": 22.9,
+      "ear": 0.489,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1271.0,
+      "bpm": 22.9,
+      "ear": 0.493,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1272.0,
+      "bpm": 22.9,
+      "ear": 0.483,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1273.0,
+      "bpm": 22.9,
+      "ear": 0.497,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1274.1,
+      "bpm": 22.9,
+      "ear": 0.508,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1275.1,
+      "bpm": 22.9,
+      "ear": 0.503,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1276.2,
+      "bpm": 22.9,
+      "ear": 0.495,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1277.2,
+      "bpm": 22.9,
+      "ear": 0.503,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1278.2,
+      "bpm": 22.9,
+      "ear": 0.474,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1279.2,
+      "bpm": 22.9,
+      "ear": 0.487,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1280.3,
+      "bpm": 22.9,
+      "ear": 0.505,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1281.3,
+      "bpm": 22.9,
+      "ear": 0.511,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1282.3,
+      "bpm": 22.8,
+      "ear": 0.499,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1283.3,
+      "bpm": 22.8,
+      "ear": 0.522,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1284.4,
+      "bpm": 22.8,
+      "ear": 0.529,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1285.4,
+      "bpm": 22.8,
+      "ear": 0.518,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1286.4,
+      "bpm": 22.8,
+      "ear": 0.51,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1287.4,
+      "bpm": 22.8,
+      "ear": 0.505,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1288.4,
+      "bpm": 22.7,
+      "ear": 0.514,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1289.4,
+      "bpm": 22.7,
+      "ear": 0.511,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1290.5,
+      "bpm": 22.7,
+      "ear": 0.516,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1291.5,
+      "bpm": 22.7,
+      "ear": 0.522,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1292.5,
+      "bpm": 22.7,
+      "ear": 0.489,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1293.6,
+      "bpm": 22.7,
+      "ear": 0.496,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1294.6,
+      "bpm": 22.6,
+      "ear": 0.489,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1295.6,
+      "bpm": 22.6,
+      "ear": 0.492,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1296.6,
+      "bpm": 22.6,
+      "ear": 0.495,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1297.7,
+      "bpm": 22.6,
+      "ear": 0.493,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1298.7,
+      "bpm": 22.6,
+      "ear": 0.492,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1299.7,
+      "bpm": 22.5,
+      "ear": 0.494,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1300.7,
+      "bpm": 22.5,
+      "ear": 0.488,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1301.7,
+      "bpm": 22.5,
+      "ear": 0.486,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1302.8,
+      "bpm": 22.5,
+      "ear": 0.502,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1303.8,
+      "bpm": 22.5,
+      "ear": 0.428,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1304.8,
+      "bpm": 22.5,
+      "ear": 0.426,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1305.8,
+      "bpm": 22.5,
+      "ear": 0.418,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1306.9,
+      "bpm": 22.4,
+      "ear": 0.399,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1307.9,
+      "bpm": 22.4,
+      "ear": 0.404,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1308.9,
+      "bpm": 22.4,
+      "ear": 0.449,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1310.0,
+      "bpm": 22.4,
+      "ear": 0.479,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1311.0,
+      "bpm": 22.4,
+      "ear": 0.518,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1312.0,
+      "bpm": 22.4,
+      "ear": 0.486,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1313.0,
+      "bpm": 22.4,
+      "ear": 0.486,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1314.0,
+      "bpm": 22.3,
+      "ear": 0.489,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1315.1,
+      "bpm": 22.3,
+      "ear": 0.485,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1316.1,
+      "bpm": 22.3,
+      "ear": 0.447,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1317.1,
+      "bpm": 22.3,
+      "ear": 0.421,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1318.2,
+      "bpm": 22.3,
+      "ear": 0.463,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1319.2,
+      "bpm": 22.3,
+      "ear": 0.407,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1320.3,
+      "bpm": 22.3,
+      "ear": 0.472,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1321.3,
+      "bpm": 22.3,
+      "ear": 0.498,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1322.4,
+      "bpm": 22.4,
+      "ear": 0.482,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1323.4,
+      "bpm": 22.4,
+      "ear": 0.425,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1324.5,
+      "bpm": 22.4,
+      "ear": 0.481,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1325.5,
+      "bpm": 22.4,
+      "ear": 0.435,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1326.5,
+      "bpm": 22.4,
+      "ear": 0.442,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1327.5,
+      "bpm": 22.4,
+      "ear": 0.476,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1328.5,
+      "bpm": 22.4,
+      "ear": 0.485,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1329.6,
+      "bpm": 22.4,
+      "ear": 0.491,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1330.6,
+      "bpm": 22.4,
+      "ear": 0.489,
+      "status": "Slightly elevated blinking"
+    },
+    {
+      "t": 1331.6,
+      "bpm": 22.4,
+      "ear": 0.483,
+      "status": "Slightly elevated blinking"
+    }
+  ]
+}

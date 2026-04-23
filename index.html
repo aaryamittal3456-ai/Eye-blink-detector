@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Eye Blink Monitor</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=DM+Sans:wght@300;400;500;600&display=swap');
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+
+/* ── Theme variables ── */
+:root{
+  --bg:#08101f;--surface:#0f1a2e;--card:#131f33;--border:#1c2d45;
+  --accent:#38bdf8;--green:#22c55e;--red:#ef4444;--amber:#f59e0b;
+  --muted:#4a6080;--text:#dde6f0;
+  --mono:'Space Mono',monospace;--sans:'DM Sans',sans-serif;
+}
+.light{
+  --bg:#f0f4f8;--surface:#ffffff;--card:#ffffff;--border:#d1dce8;
+  --accent:#0284c7;--green:#16a34a;--red:#dc2626;--amber:#d97706;
+  --muted:#64748b;--text:#1e293b;
+}
+
+body{font-family:var(--sans);background:var(--bg);color:var(--text);min-height:100vh;transition:background .3s,color .3s}
+
+/* ── Header ── */
+.header{background:var(--surface);border-bottom:1px solid var(--border);
+  padding:14px 28px;display:flex;align-items:center;gap:14px;position:sticky;top:0;z-index:100}
+.header-icon{font-size:26px}
+.header-title{font-family:var(--mono);font-size:17px;font-weight:700;color:var(--text)}
+.header-sub{font-size:11px;color:var(--muted);margin-top:1px}
+.header-right{margin-left:auto;display:flex;align-items:center;gap:14px}
+.live-dot{display:flex;align-items:center;gap:7px;font-size:12px;color:var(--muted)}
+.dot{width:9px;height:9px;border-radius:50%;background:var(--muted)}
+.dot.live{background:var(--green);box-shadow:0 0 7px var(--green);animation:pulse 1.4s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.45}}
+
+/* Theme toggle */
+.theme-btn{background:var(--card);border:1px solid var(--border);color:var(--text);
+  padding:6px 14px;border-radius:8px;cursor:pointer;font-size:13px;font-family:var(--sans)}
+.theme-btn:hover{border-color:var(--accent)}
+
+/* ── Layout ── */
+.main{display:grid;grid-template-columns:1fr 390px;gap:20px;
+  padding:20px 24px;max-width:1320px;margin:0 auto}
+
+/* ── Controls ── */
+.controls{display:flex;gap:10px;margin-bottom:14px}
+.btn{font-family:var(--sans);font-size:14px;font-weight:600;padding:10px 26px;
+  border-radius:10px;border:none;cursor:pointer;transition:opacity .15s,transform .1s}
+.btn:active{transform:scale(.97)}
+.btn:disabled{opacity:.3;cursor:not-allowed}
+.btn-start{background:var(--green);color:#0a1a10}
+.btn-stop{background:var(--red);color:#fff}
+.btn-reset{background:var(--border);color:var(--text)}
+.btn:not(:disabled):hover{opacity:.85}
+
+/* ── Camera ── */
+.cam-wrap{background:var(--card);border:1px solid var(--border);border-radius:16px;overflow:hidden}
+.cam-wrap img{width:100%;display:block}
+.cam-placeholder{height:340px;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;gap:14px;color:var(--muted)}
+.cam-placeholder .icon{font-size:52px;opacity:.2}
+.cam-tip{padding:10px 14px;font-size:12px;color:var(--muted);
+  border-top:1px solid var(--border);text-align:center}
+
+/* Calibration bar */
+.calib-wrap{padding:10px 14px;background:rgba(56,189,248,.07);
+  border-top:1px solid rgba(56,189,248,.2);display:none}
+.calib-label{font-size:12px;color:var(--accent);margin-bottom:6px}
+.calib-bg{height:6px;background:var(--border);border-radius:99px;overflow:hidden}
+.calib-fill{height:100%;background:var(--accent);border-radius:99px;transition:width .3s;width:0}
+
+/* ── Stats panel ── */
+.stats{display:flex;flex-direction:column;gap:14px}
+.cards-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.card{background:var(--card);border:1px solid var(--border);border-radius:14px;
+  padding:18px 14px;text-align:center;transition:border-color .2s}
+.card:hover{border-color:var(--accent)}
+.card-label{font-family:var(--mono);font-size:9px;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+.card-value{font-family:var(--mono);font-size:2.3rem;font-weight:700;
+  line-height:1;color:var(--text);transition:color .3s}
+.card-sub{font-size:11px;color:var(--muted);margin-top:5px}
+
+/* Status */
+.status-box{background:var(--card);border:1px solid var(--border);
+  border-radius:14px;padding:14px 16px;text-align:center}
+.status-label{font-family:var(--mono);font-size:9px;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+.status-pill{display:inline-block;padding:7px 20px;border-radius:999px;
+  font-size:13px;font-weight:600;border:1px solid transparent}
+
+/* Break progress ring */
+.break-box{background:var(--card);border:1px solid var(--border);
+  border-radius:14px;padding:14px 16px;display:flex;align-items:center;gap:16px}
+.ring-wrap{position:relative;width:56px;height:56px;flex-shrink:0}
+.ring-wrap svg{transform:rotate(-90deg)}
+.ring-bg{fill:none;stroke:var(--border);stroke-width:5}
+.ring-fill{fill:none;stroke:var(--amber);stroke-width:5;
+  stroke-linecap:round;stroke-dasharray:151;stroke-dashoffset:151;transition:stroke-dashoffset .8s}
+.ring-text{position:absolute;inset:0;display:flex;align-items:center;
+  justify-content:center;font-family:var(--mono);font-size:11px;color:var(--text)}
+.break-info{flex:1}
+.break-title{font-size:13px;font-weight:600;color:var(--text);margin-bottom:3px}
+.break-sub{font-size:11px;color:var(--muted)}
+
+/* Chart */
+.chart-box{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px}
+.chart-title{font-family:var(--mono);font-size:9px;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--muted);margin-bottom:10px}
+
+/* ── Tabs (Reports) ── */
+.tabs{display:flex;gap:0;border-bottom:1px solid var(--border);margin-bottom:16px}
+.tab{padding:10px 20px;cursor:pointer;font-size:13px;font-weight:500;
+  color:var(--muted);border-bottom:2px solid transparent;transition:color .2s,border-color .2s}
+.tab.active{color:var(--accent);border-bottom-color:var(--accent)}
+.tab-panel{display:none}
+.tab-panel.active{display:block}
+
+/* Reports table */
+.reports-table{width:100%;border-collapse:collapse;font-size:12px}
+.reports-table th{padding:8px 10px;text-align:left;color:var(--muted);
+  font-family:var(--mono);font-size:9px;letter-spacing:.1em;text-transform:uppercase;
+  border-bottom:1px solid var(--border)}
+.reports-table td{padding:9px 10px;border-bottom:1px solid var(--border);color:var(--text)}
+.reports-table tr:last-child td{border-bottom:none}
+.reports-table tr:hover td{background:rgba(56,189,248,.04)}
+.no-reports{text-align:center;color:var(--muted);font-size:13px;padding:24px}
+
+/* ── Toast notifications ── */
+#toasts{position:fixed;top:72px;right:20px;z-index:9999;
+  display:flex;flex-direction:column;gap:10px;pointer-events:none}
+.toast{background:var(--surface);border:1px solid var(--border);border-radius:14px;
+  padding:14px 18px;min-width:300px;max-width:380px;pointer-events:all;
+  box-shadow:0 8px 32px rgba(0,0,0,.4);animation:slideIn .3s ease;position:relative}
+.toast.break{border-left:4px solid var(--amber)}
+.toast.low{border-left:4px solid var(--red)}
+.toast-title{font-weight:600;font-size:14px;margin-bottom:4px;color:var(--text)}
+.toast-msg{font-size:12px;color:var(--muted);line-height:1.5}
+.toast-close{position:absolute;top:10px;right:12px;background:none;border:none;
+  color:var(--muted);cursor:pointer;font-size:16px;line-height:1}
+.toast-close:hover{color:var(--text)}
+@keyframes slideIn{from{opacity:0;transform:translateX(30px)}to{opacity:1;transform:none}}
+@keyframes fadeOut{to{opacity:0;transform:translateX(30px)}}
+
+/* ── Sound toggle ── */
+.sound-btn{background:var(--card);border:1px solid var(--border);
+  color:var(--text);padding:6px 14px;border-radius:8px;
+  cursor:pointer;font-size:12px;font-family:var(--sans);white-space:nowrap}
+.sound-btn:hover{border-color:var(--accent)}
+.sound-btn.on{border-color:var(--green);color:var(--green)}
+</style>
+</head>
+<body>
+
+<!-- Toast container -->
+<div id="toasts"></div>
+
+<!-- Header -->
+<div class="header">
+  <div class="header-icon">👁️</div>
+  <div>
+    <div class="header-title">Eye Blink Monitor</div>
+    <div class="header-sub">Keep your eyes healthy while working</div>
+  </div>
+  <div class="header-right">
+    <button class="sound-btn" id="soundBtn" onclick="toggleSound()" title="Toggle sound alerts">
+      🔇 Sound Off
+    </button>
+    <button class="theme-btn" onclick="toggleTheme()">🌙 Dark</button>
+    <div class="live-dot">
+      <div class="dot" id="liveDot"></div>
+      <span id="liveLabel">Stopped</span>
+    </div>
+  </div>
+</div>
+
+<!-- Main -->
+<div class="main">
+
+  <!-- LEFT: camera + tabs -->
+  <div>
+    <div class="controls">
+      <button class="btn btn-start" id="btnStart" onclick="doStart()">▶ Start</button>
+      <button class="btn btn-stop"  id="btnStop"  onclick="doStop()"  disabled>⏹ Stop</button>
+      <button class="btn btn-reset" id="btnReset" onclick="doReset()" disabled>↺ Reset</button>
+    </div>
+
+    <!-- Tabs -->
+    <div class="tabs">
+      <div class="tab active" onclick="switchTab('live')">📷 Live</div>
+      <div class="tab" onclick="switchTab('reports')">📋 Reports</div>
+    </div>
+
+    <!-- Live tab -->
+    <div class="tab-panel active" id="tabLive">
+      <div class="cam-wrap" id="camWrap">
+        <div class="cam-placeholder" id="camPlaceholder">
+          <div class="icon">📷</div>
+          <p>Press <strong style="color:var(--accent)">▶ Start</strong> to begin</p>
+          <small style="color:var(--muted);font-size:12px">Make sure your face is visible and room is well lit</small>
+        </div>
+        <img id="camFeed" src="" style="display:none" alt="Camera">
+        <div class="calib-wrap" id="calibWrap">
+          <div class="calib-label" id="calibLabel">Setting up for your eyes… 0%</div>
+          <div class="calib-bg"><div class="calib-fill" id="calibFill"></div></div>
+        </div>
+        <div class="cam-tip" id="camTip">💡 Sit ~50 cm from camera in a well-lit room</div>
+      </div>
+    </div>
+
+    <!-- Reports tab -->
+    <div class="tab-panel" id="tabReports">
+      <div style="background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px">
+          <span style="font-family:var(--mono);font-size:10px;letter-spacing:.1em;
+                       text-transform:uppercase;color:var(--muted)">Session History</span>
+          <button class="btn btn-reset" style="padding:6px 14px;font-size:12px"
+                  onclick="loadReports()">↺ Refresh</button>
+        </div>
+        <div id="reportsBody">
+          <div class="no-reports">No reports yet — complete a session to see history</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- RIGHT: stats -->
+  <div class="stats">
+
+    <div class="cards-grid">
+      <div class="card">
+        <div class="card-label">Blinks</div>
+        <div class="card-value" id="valBlinks">0</div>
+        <div class="card-sub">total</div>
+      </div>
+      <div class="card">
+        <div class="card-label">Per Minute</div>
+        <div class="card-value" id="valBpm">0.0</div>
+        <div class="card-sub">blinks/min</div>
+      </div>
+      <div class="card">
+        <div class="card-label">Eye Score</div>
+        <div class="card-value" id="valEar">0.00</div>
+        <div class="card-sub" id="subEar">EAR</div>
+      </div>
+      <div class="card">
+        <div class="card-label">Session</div>
+        <div class="card-value" id="valTime">00:00</div>
+        <div class="card-sub">mm:ss</div>
+      </div>
+    </div>
+
+    <!-- Status pill -->
+    <div class="status-box">
+      <div class="status-label">Eye Health Status</div>
+      <span class="status-pill" id="statusPill"
+        style="background:rgba(100,116,139,.15);color:#64748b;border-color:#1e2d45">
+        Waiting to start…
+      </span>
+    </div>
+
+    <!-- Break reminder ring -->
+    <div class="break-box" id="breakBox" style="display:none">
+      <div class="ring-wrap">
+        <svg width="56" height="56" viewBox="0 0 56 56">
+          <circle class="ring-bg" cx="28" cy="28" r="24"/>
+          <circle class="ring-fill" id="ringFill" cx="28" cy="28" r="24"/>
+        </svg>
+        <div class="ring-text" id="ringText">0m</div>
+      </div>
+      <div class="break-info">
+        <div class="break-title">⏰ Break Reminder</div>
+        <div class="break-sub" id="breakSub">Low blinking detected — ring fills over 20 min</div>
+      </div>
+    </div>
+
+    <!-- Chart -->
+    <div class="chart-box">
+      <div class="chart-title">📈 Blink rate over time</div>
+      <canvas id="bpmChart" height="130"></canvas>
+    </div>
+
+  </div>
+</div>
+
+<script>
+// ── State ──────────────────────────────────────────────────────────────
+let isRunning   = false;
+let pollTimer   = null;
+let isDark      = true;
+let soundOn     = false;
+let audioCtx    = null;
+
+// ── Theme toggle ───────────────────────────────────────────────────────
+function toggleTheme() {
+  isDark = !isDark;
+  document.body.classList.toggle('light', !isDark);
+  document.querySelector('.theme-btn').textContent = isDark ? '🌙 Dark' : '☀️ Light';
+}
+
+// ── Sound toggle ───────────────────────────────────────────────────────
+function toggleSound() {
+  soundOn = !soundOn;
+  const btn = document.getElementById('soundBtn');
+  btn.textContent = soundOn ? '🔔 Sound On' : '🔇 Sound Off';
+  btn.classList.toggle('on', soundOn);
+  // init AudioContext on first user interaction
+  if (soundOn && !audioCtx) {
+    audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+  }
+}
+
+function playBeep(freq = 440, dur = 0.3, vol = 0.3) {
+  if (!soundOn || !audioCtx) return;
+  const osc  = audioCtx.createOscillator();
+  const gain = audioCtx.createGain();
+  osc.connect(gain);
+  gain.connect(audioCtx.destination);
+  osc.frequency.value = freq;
+  osc.type = 'sine';
+  gain.gain.setValueAtTime(vol, audioCtx.currentTime);
+  gain.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + dur);
+  osc.start();
+  osc.stop(audioCtx.currentTime + dur);
+}
+
+// ── Tab switching ──────────────────────────────────────────────────────
+function switchTab(name) {
+  document.querySelectorAll('.tab').forEach((t,i) =>
+    t.classList.toggle('active', ['live','reports'][i] === name));
+  document.querySelectorAll('.tab-panel').forEach(p =>
+    p.classList.toggle('active', p.id === 'tab' + name.charAt(0).toUpperCase() + name.slice(1)));
+  if (name === 'reports') loadReports();
+}
+
+// ── Chart ──────────────────────────────────────────────────────────────
+const ctx = document.getElementById('bpmChart').getContext('2d');
+const chart = new Chart(ctx, {
+  type: 'line',
+  data: {
+    labels: [],
+    datasets: [{
+      data: [],
+      borderColor: '#38bdf8',
+      backgroundColor: 'rgba(56,189,248,0.07)',
+      borderWidth: 2,
+      pointRadius: 0,
+      fill: true,
+      tension: 0.4,
+    }]
+  },
+  options: {
+    responsive: true,
+    animation: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      x: { ticks:{color:'#4a6080',maxTicksLimit:5}, grid:{color:'#1c2d45'},
+           title:{display:true,text:'seconds',color:'#4a6080',font:{size:10}} },
+      y: { min:0, ticks:{color:'#4a6080'}, grid:{color:'#1c2d45'},
+           title:{display:true,text:'bpm',color:'#4a6080',font:{size:10}} }
+    }
+  }
+});
+Chart.register({
+  id:'zone',
+  beforeDraw(c){
+    const {ctx,chartArea:{top,bottom,left,right},scales:{y}} = c;
+    if(!y)return;
+    ctx.save();
+    ctx.fillStyle='rgba(34,197,94,0.07)';
+    ctx.fillRect(left, y.getPixelForValue(20), right-left,
+                 y.getPixelForValue(8)-y.getPixelForValue(20));
+    ctx.restore();
+  }
+});
+
+// ── Buttons ────────────────────────────────────────────────────────────
+async function doStart() {
+  await fetch('/start',{method:'POST'});
+  isRunning = true;
+  document.getElementById('camPlaceholder').style.display = 'none';
+  document.getElementById('camFeed').style.display = 'block';
+  document.getElementById('camFeed').src = '/video_feed';
+  document.getElementById('btnStart').disabled = true;
+  document.getElementById('btnStop').disabled  = false;
+  document.getElementById('btnReset').disabled = false;
+  document.getElementById('liveDot').classList.add('live');
+  document.getElementById('liveLabel').textContent = 'Live';
+  startPolling();
+}
+
+async function doStop() {
+  await fetch('/stop',{method:'POST'});
+  isRunning = false;
+  stopPolling();
+  document.getElementById('camFeed').src = '';
+  document.getElementById('camFeed').style.display = 'none';
+  document.getElementById('camPlaceholder').style.display = 'flex';
+  document.getElementById('btnStart').disabled = false;
+  document.getElementById('btnStop').disabled  = true;
+  document.getElementById('liveDot').classList.remove('live');
+  document.getElementById('liveLabel').textContent = 'Stopped';
+  document.getElementById('calibWrap').style.display = 'none';
+  document.getElementById('breakBox').style.display = 'none';
+  showToast('info','✅ Session Ended','Report saved to the reports/ folder.');
+}
+
+async function doReset() {
+  await fetch('/reset',{method:'POST'});
+  chart.data.labels = [];
+  chart.data.datasets[0].data = [];
+  chart.update();
+  document.getElementById('breakBox').style.display = 'none';
+}
+
+// ── Polling ────────────────────────────────────────────────────────────
+function startPolling(){ pollTimer = setInterval(fetchStats, 800); }
+function stopPolling(){ clearInterval(pollTimer); pollTimer = null; }
+
+async function fetchStats() {
+  let d;
+  try { d = await (await fetch('/stats')).json(); }
+  catch(e){ return; }
+
+  // Metrics
+  document.getElementById('valBlinks').textContent = d.blink_count;
+  const bpmEl = document.getElementById('valBpm');
+  bpmEl.textContent = d.bpm.toFixed(1);
+  bpmEl.style.color = d.status_color || 'var(--text)';
+  document.getElementById('valEar').textContent = d.ear_avg.toFixed(2);
+  document.getElementById('subEar').textContent =
+    d.face_found ? `L:${d.ear_left.toFixed(2)} R:${d.ear_right.toFixed(2)}` : 'no face';
+  const m = String(Math.floor(d.elapsed/60)).padStart(2,'0');
+  const s = String(d.elapsed%60).padStart(2,'0');
+  document.getElementById('valTime').textContent = `${m}:${s}`;
+
+  // Calibration bar
+  if (d.calibrating) {
+    document.getElementById('calibWrap').style.display = 'block';
+    document.getElementById('calibLabel').textContent =
+      `Setting up for your eyes… ${d.calib_pct}%`;
+    document.getElementById('calibFill').style.width = d.calib_pct + '%';
+    setStatus('⏳ Calibrating — keep eyes open','#38bdf8');
+    document.getElementById('camTip').textContent =
+      '👀 Keep your eyes open and look at the screen';
+  } else {
+    document.getElementById('calibWrap').style.display = 'none';
+    setStatus(d.status, d.status_color);
+    document.getElementById('camTip').textContent =
+      d.face_found ? '✅ Detection active — blink normally'
+                   : '😕 No face detected — check lighting';
+  }
+
+  // Break reminder ring  (fills over 20 min = 1200 sec of low blinking)
+  if (d.low_dur_sec > 0) {
+    document.getElementById('breakBox').style.display = 'flex';
+    const pct    = Math.min(d.low_dur_sec / 1200, 1);
+    const offset = 151 * (1 - pct);
+    document.getElementById('ringFill').style.strokeDashoffset = offset;
+    const mins = Math.floor(d.low_dur_sec / 60);
+    const secs = d.low_dur_sec % 60;
+    document.getElementById('ringText').textContent =
+      mins > 0 ? `${mins}m` : `${secs}s`;
+    document.getElementById('breakSub').textContent =
+      d.low_dur_sec < 1200
+        ? `Low blinking for ${mins}m ${secs}s — break in ${Math.ceil((1200-d.low_dur_sec)/60)}m`
+        : '⚠️ Take a break now!';
+  } else {
+    document.getElementById('breakBox').style.display = 'none';
+  }
+
+  // Toast alerts from server
+  if (d.alerts && d.alerts.length > 0) {
+    d.alerts.forEach(a => {
+      showToast(a.kind, a.title, a.message);
+      if (a.kind === 'break') playBeep(520, 0.6, 0.4);
+      else if (a.kind === 'low') playBeep(380, 0.4, 0.3);
+    });
+  }
+
+  // Chart
+  if (d.history && d.history.length > 1) {
+    chart.data.labels             = d.history.map(h => h.t+'s');
+    chart.data.datasets[0].data  = d.history.map(h => h.bpm);
+    chart.update('none');
+  }
+}
+
+// ── Status pill ────────────────────────────────────────────────────────
+function setStatus(label, color) {
+  const p = document.getElementById('statusPill');
+  p.textContent    = label;
+  p.style.color    = color;
+  p.style.background   = color + '22';
+  p.style.borderColor  = color + '55';
+}
+
+// ── Toast notifications ────────────────────────────────────────────────
+function showToast(kind, title, message) {
+  const container = document.getElementById('toasts');
+  const toast = document.createElement('div');
+  toast.className = `toast ${kind}`;
+  toast.innerHTML = `
+    <button class="toast-close" onclick="this.parentElement.remove()">✕</button>
+    <div class="toast-title">${title}</div>
+    <div class="toast-msg">${message}</div>`;
+  container.appendChild(toast);
+
+  // Also fire browser notification if permitted
+  if (Notification.permission === 'granted') {
+    new Notification(title, { body: message, icon: '' });
+  }
+
+  // Auto-remove after 8 seconds
+  setTimeout(() => {
+    toast.style.animation = 'fadeOut .3s ease forwards';
+    setTimeout(() => toast.remove(), 300);
+  }, 8000);
+}
+
+// Request browser notification permission on load
+if ('Notification' in window && Notification.permission === 'default') {
+  Notification.requestPermission();
+}
+
+// ── Reports ────────────────────────────────────────────────────────────
+async function loadReports() {
+  const body = document.getElementById('reportsBody');
+  body.innerHTML = '<div class="no-reports">Loading…</div>';
+  let rows;
+  try { rows = await (await fetch('/reports')).json(); }
+  catch(e){ body.innerHTML='<div class="no-reports">Could not load reports</div>'; return; }
+
+  if (!rows.length) {
+    body.innerHTML = '<div class="no-reports">No reports yet — complete a session first</div>';
+    return;
+  }
+
+  const statusColor = s =>
+    s.includes('Healthy') ? '#22c55e' :
+    s.includes('Low')     ? '#ef4444' : '#f59e0b';
+
+  body.innerHTML = `
+    <table class="reports-table">
+      <thead><tr>
+        <th>Date</th><th>Time</th><th>Duration</th>
+        <th>Blinks</th><th>Avg BPM</th><th>Status</th>
+      </tr></thead>
+      <tbody>
+        ${rows.map(r => `<tr>
+          <td>${r.date}</td>
+          <td>${r.time}</td>
+          <td>${r.duration}</td>
+          <td>${r.blinks}</td>
+          <td style="color:${statusColor(r.status)};font-family:var(--mono)">${r.avg_bpm}</td>
+          <td style="color:${statusColor(r.status)};font-size:11px">${r.status}</td>
+        </tr>`).join('')}
+      </tbody>
+    </table>`;
+}
+</script>
+</body>
+</html>
